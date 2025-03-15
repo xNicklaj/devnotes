@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Development/Patterns/Object Pool.md",
+                "file": "Resources/Electronics/Phenomenons/Coil Whine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Object Pool"
+              "title": "Coil Whine"
             }
           }
         ]
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Development/Patterns/Object Pool.md",
+                "file": "Resources/Electronics/Phenomenons/Coil Whine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Object Pool"
+              "title": "Backlinks for Coil Whine"
             }
           },
           {
@@ -234,10 +234,16 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "12038fc99dc27758",
+  "active": "43b483eb05671e30",
   "lastOpenFiles": [
-    "Resources/Development/Patterns/State.md",
+    "Templates/NewNoteTemplate.md",
+    "Templates/IndexTemplate.md",
+    "Templates",
     "Resources/Development/Patterns/Object Pool.md",
+    "Resources/Electronics/Phenomenons/Coil Whine.md",
+    "Resources/Electronics/Phenomenons",
+    "Resources/Electronics",
+    "Resources/Development/Patterns/State.md",
     "Resources/Development/Patterns/Singleton.md",
     "Resources/Development/Patterns/Prototype.md",
     "Resources/Development/Patterns/Flyweight.md",
@@ -267,16 +273,10 @@
     "Materie/Ingegneria del suono/Appunti/Suono e fenomeno percettivo.md",
     "Materie/Elaborazione Audio Digitale/Appunti/Esempi di domande.md",
     "Materie/Elaborazione Audio Digitale/Elaborazione Audio Digitale.md",
-    "Knowledge/Audio & Sound/Potenza sonora.md",
-    "Knowledge/Audio & Sound/Pressione acustica.md",
     "Knowledge/Audio & Sound/assets/Pasted image 20250227131906.png",
-    "Materie/Computer Animation/Appunti/Lezione I.md",
-    "Materie/Computer Animation/Appunti",
     "Knowledge/Virtual Reality & Game Design/Tracker 1/assets/Pasted image 20241101101245.png",
     "Knowledge/Virtual Reality & Game Design/Tracker 1/assets/Pasted image 20241101100036.png",
     "Knowledge/Virtual Reality & Game Design/Tracker 1/assets/Pasted image 20241101092149.png",
-    "Knowledge/Virtual Reality & Game Design/Tracker 1/assets",
-    "Knowledge/Virtual Reality & Game Design/Tracker 1",
     "Knowledge/Fisica/assets/Pasted image 20241106082312.png",
     "Knowledge/Fisica/assets/Pasted image 20241102082112.png",
     "Knowledge/Fisica/assets/Pasted image 20241102081657.png",

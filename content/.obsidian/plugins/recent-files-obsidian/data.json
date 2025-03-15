@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Coil Whine",
+      "path": "Resources/Electronics/Phenomenons/Coil Whine.md"
+    },
+    {
       "basename": "Object Pool",
       "path": "Resources/Development/Patterns/Object Pool.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Impedenza acustica",
       "path": "Knowledge/Audio & Sound/Impedenza acustica.md"
-    },
-    {
-      "basename": "TODO List",
-      "path": "TODO List.md"
     }
   ],
   "omittedPaths": [
