@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "f623ca38b4be990b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4b6433d9833c9f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "849e6bf774e14db0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Materie/Realtà Virtuale/Appunti/Architetture.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Architetture"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c9f06296552ef3c7",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "0c77d5c5dee2b2b9",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "6d5637fd155135f6",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "9e20a93de9ff3831",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "c75bc7c2429322f4",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "5fff0e0b5ac4eae4",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "147b956cf2012851",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Materie/Realtà Virtuale/Appunti/Dispositivi di input.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "e30b111a02945613",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Materie/Realtà Virtuale/Appunti/Dispositivi di input.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "b04aec078a7c5429",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Materie/Realtà Virtuale/Appunti/Dispositivi di input.md"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "7f827aca0abbf1a0",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "aa3aa984a7e3b652",
+        "type": "leaf",
+        "state": {
+          "type": "chronology-calendar-view",
+          "state": {},
+          "icon": "clock",
+          "title": "Chronology"
+        }
+      }
+    ],
+    "currentTab": 4
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "chronology:Open Chronology": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "open-gate:Portale UXD": false,
+      "open-gate:Notion Realtà Virtuale": false,
+      "templater-obsidian:Templater": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian42-brat:BRAT": false
+    }
+  },
+  "active": "849e6bf774e14db0",
+  "lastOpenFiles": [
+    "Calendario.md",
+    "index.md",
+    "TODO List.md",
+    "Dump/Installazione DaVinci Resolve.md",
+    "Materie/Elaborazione Audio Digitale/Elaborazione Audio Digitale.md",
+    "Knowledge/Cinema Immersivo/VR Aspect Ratio.md",
+    "Dump/assets/Pasted image 20241109002242.png",
+    "Dump/assets/Pasted image 20241108235342.png",
+    "Dump/assets/april-fools-joke.gif",
+    "Dump/assets/Pasted image 20241109001608.png",
+    "Dump/assets",
+    "Knowledge/Elaborazione Audio Digitale/Clipping.md",
+    "Dump/_Index_Dump.md",
+    "Dump",
+    "Materie/User Experience Design/Appunti/Gamification.md",
+    "Knowledge/Cinema Immersivo/Video VR.md",
+    "Knowledge/Informatica/Audio Surround.md",
+    "Materie/Cinema Immersivo/Appunti/Microno Lavalier.md",
+    "Knowledge/Clippings/VR Audio.md",
+    "Knowledge/Realtà Virtuale/assets/Pasted image 20241104094043.png",
+    "Materie/Realtà Virtuale/Appunti/Dispositivi di input.md",
+    "Knowledge/Informatica/Hardware/_Index_Hardware.md",
+    "Knowledge/Cinema Immersivo/Stitching.md",
+    "Knowledge/Cinema Immersivo/assets/Pasted image 20241104095114.png",
+    "Knowledge/Informatica/Hardware/Cardboard.md",
+    "Knowledge/Cinema Immersivo/Proiezione Cubemap.md",
+    "Materie/Elaborazione Audio Digitale/Appunti/Introduzione a Reaper.md",
+    "Knowledge/Cinema Immersivo/assets/Pasted image 20241104091715.png",
+    "Materie/Cinema Immersivo/Appunti/Riprese 360.md",
+    "Knowledge/Informatica/Hardware/Meta Quest.md",
+    "Knowledge/Informatica/Field of View.md",
+    "Knowledge/Cinema Immersivo/_Index_Cinema Immersivo.md",
+    "Materie/Cinema Immersivo/Appunti/3.5mm jack.md",
+    "Knowledge/Informatica/Hardware/assets/Pasted image 20241104084424.png",
+    "Knowledge/Cinema Immersivo/assets/Pasted image 20241104100058.png",
+    "Knowledge/Cinema Immersivo/assets",
+    "TODO Index.md",
+    "Knowledge/Cinema Immersivo/Proiezione Equirettangolare.md",
+    "Knowledge/Informatica/Hardware/assets/Pasted image 20241104084051.png",
+    "Knowledge/Informatica/Hardware/assets",
+    "Knowledge/Informatica/Hardware",
+    "Knowledge/Cinema Immersivo"
+  ]
+}

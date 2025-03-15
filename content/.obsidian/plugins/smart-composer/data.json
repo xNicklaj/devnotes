@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "openAIApiKey": "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",
+  "anthropicApiKey": "",
+  "geminiApiKey": "",
+  "groqApiKey": "",
+  "chatModelId": "openai-compatible",
+  "ollamaChatModel": {
+    "baseUrl": "",
+    "model": ""
+  },
+  "openAICompatibleChatModel": {
+    "baseUrl": "https://openrouter.ai/api/v1",
+    "apiKey": "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",
+    "model": "openai/gpt-4o-mini-2024-07-18"
+  },
+  "applyModelId": "openai-compatible",
+  "ollamaApplyModel": {
+    "baseUrl": "",
+    "model": ""
+  },
+  "openAICompatibleApplyModel": {
+    "baseUrl": "https://openrouter.ai/api/v1",
+    "apiKey": "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",
+    "model": "openai/gpt-4o-mini-2024-07-18"
+  },
+  "embeddingModelId": "openai/text-embedding-3-small",
+  "ollamaEmbeddingModel": {
+    "baseUrl": "",
+    "model": ""
+  },
+  "systemPrompt": "",
+  "ragOptions": {
+    "chunkSize": 1000,
+    "thresholdTokens": 8192,
+    "minSimilarity": 0,
+    "limit": 10,
+    "excludePatterns": [],
+    "includePatterns": []
+  }
+}

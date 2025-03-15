@@ -1,0 +1,58 @@
+{
+  "collapse-filter": false,
+  "search": "-file:_ -path:Templates/ -tag:#hide",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#vr-gd",
+      "color": {
+        "a": 1,
+        "rgb": 3554254
+      }
+    },
+    {
+      "query": "tag:#scienze",
+      "color": {
+        "a": 1,
+        "rgb": 65471
+      }
+    },
+    {
+      "query": "tag:#audio",
+      "color": {
+        "a": 1,
+        "rgb": 14173885
+      }
+    },
+    {
+      "query": "tag:#IEE  ",
+      "color": {
+        "a": 1,
+        "rgb": 9092837
+      }
+    },
+    {
+      "query": "tag:#video-cgi",
+      "color": {
+        "a": 1,
+        "rgb": 16756545
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.455729166666667,
+  "repelStrength": 10.8854166666667,
+  "linkStrength": 1,
+  "linkDistance": 168,
+  "scale": 0.253038520004425,
+  "close": true
+}

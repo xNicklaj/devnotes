@@ -1,0 +1,283 @@
+{
+  "main": {
+    "id": "201f60c75c78e710",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d6931f9b6b2f891",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20f0af659aa742f6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c7d47177dece539b",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ea93130b7a85651",
+        "type": "tabs",
+        "dimension": 68.25396825396825,
+        "children": [
+          {
+            "id": "43b483eb05671e30",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "75fe56a923464070",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "70a51dd494ca1914",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "64af52c27100b296",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "profondi",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          }
+        ]
+      },
+      {
+        "id": "c74fb5e76faf9d27",
+        "type": "tabs",
+        "dimension": 31.746031746031743,
+        "children": [
+          {
+            "id": "c28429d50fd80994",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 326.5
+  },
+  "right": {
+    "id": "9ebb3772d687ac75",
+    "type": "split",
+    "children": [
+      {
+        "id": "698070b7391ff08b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89d1a42bf1c95487",
+            "type": "leaf",
+            "state": {
+              "type": "chronology-calendar-view",
+              "state": {},
+              "icon": "clock",
+              "title": "Chronology"
+            }
+          },
+          {
+            "id": "95e63c0d27137e6f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Materie/Realtà Virtuale/Appunti/Dispositivi di output.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Dispositivi di output"
+            }
+          },
+          {
+            "id": "11de044ddbeee6e7",
+            "type": "leaf",
+            "state": {
+              "type": "chronology-calendar-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "a1589dac3ace5d10",
+            "type": "leaf",
+            "state": {
+              "type": "chronology-calendar-view",
+              "state": {},
+              "icon": "clock",
+              "title": "Chronology"
+            }
+          }
+        ]
+      },
+      {
+        "id": "85d36cf6f230bab2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "227c279673a15208",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "b899077649802f8a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Knowledge/Realtà Virtuale/Tracker/Tracker ottici.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Tracker ottici"
+            }
+          },
+          {
+            "id": "52323ff2e5c65b23",
+            "type": "leaf",
+            "state": {
+              "type": "smtcmp-chat-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 361.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "switcher:Open quick switcher": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-git:Open Git source control": false,
+      "chronology:Open Chronology": false,
+      "obsidian42-brat:BRAT": false,
+      "smart-composer:Open smart composer": false
+    }
+  },
+  "active": "a1589dac3ace5d10",
+  "lastOpenFiles": [
+    "Materie/Game Design & Game Thinking/Appunti/Lezione 2.md",
+    "Daily Notes/2025-03-10.md",
+    "Untitled.canvas",
+    "Materie/Game Design & Game Thinking/Game Design & Game Thinking.md",
+    "Calendario.md",
+    "Materie/Realtà Virtuale/Appunti/Domande Esame.md",
+    "index.md",
+    "Materie/Game Design & Game Thinking/Appunti/Esercitazione I.md",
+    "Daily Notes/2025-02-28.md",
+    "Materie/Elaborazione Audio Digitale/Appunti/1. Acustica e Psicoacustica.md",
+    "Knowledge/Audio & Sound/Phon.md",
+    "Materie/Ingegneria del suono/Appunti/Suono e fenomeno percettivo.md",
+    "Materie/Elaborazione Audio Digitale/Appunti/Esempi di domande.md",
+    "Materie/Elaborazione Audio Digitale/Elaborazione Audio Digitale.md",
+    "Knowledge/Audio & Sound/Potenza sonora.md",
+    "Knowledge/Audio & Sound/Pressione acustica.md",
+    "Knowledge/Audio & Sound/assets/Pasted image 20250227131906.png",
+    "Materie/Computer Animation/Appunti/Lezione I.md",
+    "Knowledge/Ingegneria, Informatica & Elettronica/Frame Buffer.md",
+    "Knowledge/Ingegneria, Informatica & Elettronica/Profondità di bit.md",
+    "Knowledge/Audio & Sound/Low Level Quantization Noise.md",
+    "Knowledge/Audio & Sound/Profondità di bit.md",
+    "Knowledge/Ingegneria, Informatica & Elettronica/Errore di quantizzazione.md",
+    "Knowledge/Audio & Sound/_Index_Audio & Sound.md",
+    "Materie/Computer Animation/Appunti/_Index_Appunti.md",
+    "Materie/Ingegneria del suono/Appunti/Introduzione.md",
+    "Materie/Computer Animation/Appunti",
+    "Materie/Ingegneria del suono/Ingegneria del Suono.md",
+    "Materie/Computer Animation/Computer Animation.md",
+    "Knowledge/Virtual Reality & Game Design/Tracker 1/assets/Pasted image 20241101101245.png",
+    "Knowledge/Virtual Reality & Game Design/Tracker 1/assets/Pasted image 20241101100036.png",
+    "Knowledge/Virtual Reality & Game Design/Tracker 1/assets/Pasted image 20241101092149.png",
+    "Knowledge/Virtual Reality & Game Design/Tracker 1/assets",
+    "Knowledge/Virtual Reality & Game Design/Tracker 1",
+    "Knowledge/Fisica/assets/Pasted image 20241106082312.png",
+    "Knowledge/Fisica/assets/Pasted image 20241102082112.png",
+    "Knowledge/Fisica/assets/Pasted image 20241102081657.png",
+    "Knowledge/Fisica/assets/Onde_compression_impulsion_1d_30_petit-ezgif.com-effects.gif",
+    "Knowledge/Fisica/assets/Onde_cisaillement_impulsion_1d_30_petit-ezgif.com-effects.gif",
+    "Knowledge/Fisica/assets",
+    "Knowledge/Fisica",
+    "Knowledge/Audio & Sound/assets/Untitled-1 2.png",
+    "Knowledge/Audio & Sound/assets",
+    "Knowledge/Elaborazione Audio Digitale",
+    "Knowledge/Audio & Sound",
+    "Materie/Ingegneria del suono/Appunti/Untitled",
+    "Materie/Ingegneria del suono/Appunti",
+    "Materie/Cinema Immersivo/Appunti/Articoli/Analisi Articoli.canvas"
+  ]
+}
