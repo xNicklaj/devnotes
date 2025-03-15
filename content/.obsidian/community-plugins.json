@@ -18,7 +18,6 @@
   "image-captions",
   "oz-clear-unused-images",
   "obsidian-clipper",
-  "zoottelkeeper-obsidian-plugin",
   "file-explorer-plus",
   "obsidian-footnotes",
   "chronology",
@@ -33,5 +32,6 @@
   "smart-composer",
   "tag-wrangler",
   "canvas-mindmap",
-  "lazy-plugins"
+  "lazy-plugins",
+  "manual-sorting"
 ]

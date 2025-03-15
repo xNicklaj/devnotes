@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "Object Pool",
+      "path": "Resources/Development/Patterns/Object Pool.md"
+    },
+    {
+      "basename": "State",
+      "path": "Resources/Development/Patterns/State.md"
+    },
+    {
+      "basename": "Singleton",
+      "path": "Resources/Development/Patterns/Singleton.md"
+    },
+    {
+      "basename": "Prototype",
+      "path": "Resources/Development/Patterns/Prototype.md"
+    },
+    {
+      "basename": "Flyweight",
+      "path": "Resources/Development/Patterns/Flyweight.md"
+    },
+    {
+      "basename": "Command",
+      "path": "Resources/Development/Patterns/Command.md"
+    },
+    {
+      "basename": "Observer",
+      "path": "Resources/Development/Patterns/Observer.md"
+    },
+    {
       "basename": "2025-03-10",
       "path": "Daily Notes/2025-03-10.md"
     },
@@ -171,34 +199,6 @@
     {
       "basename": "TODO List",
       "path": "TODO List.md"
-    },
-    {
-      "basename": "Intensità acustica",
-      "path": "Knowledge/Audio & Sound/Intensità acustica.md"
-    },
-    {
-      "basename": "Suono",
-      "path": "Knowledge/Audio & Sound/Suono.md"
-    },
-    {
-      "basename": "Filtro passa banda",
-      "path": "Knowledge/Ingegneria, Informatica & Elettronica/Filtro passa banda.md"
-    },
-    {
-      "basename": "Range uditivo umano",
-      "path": "Knowledge/Audio & Sound/Range uditivo umano.md"
-    },
-    {
-      "basename": "Apparato uditivo",
-      "path": "Knowledge/Audio & Sound/Apparato uditivo.md"
-    },
-    {
-      "basename": "Frequenza dei fotogrammi",
-      "path": "Knowledge/Video & Computer Graphics/Frequenza dei fotogrammi.md"
-    },
-    {
-      "basename": "DVB",
-      "path": "Materie/Sistemi Elettronici/Appunti/DVB.md"
     }
   ],
   "omittedPaths": [
