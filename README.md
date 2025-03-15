@@ -1,1 +1,1 @@
-Notes available on https://xnicklaj.github.io/lm-cinema
+Notes available on https://xnicklaj.github.io/devnotes
