@@ -16,13 +16,15 @@
       --background-secondary:       #140508;
       --background-secondary-alt:   #3D3D3D;
       --text-normal:                #faf2d6;
+      --bold-color:                 #55ead4;
       --text-faint:                 #bdae93;
-      --text-title-h1:              #E0E0E0;
-      --text-title-h2:              #E0E0E0;
-      --text-title-h3:              #E0E0E0;
-      --text-title-h4:              #E0E0E0;
-      --text-title-h5:              #E0E0E0;
-      --text-title-h6:              #E0E0E0;
+      --text-title:                 #55ead4;
+      --text-title-h1:              #55ead4;
+      --text-title-h2:              #55ead4;
+      --text-title-h3:              #55ead4;
+      --text-title-h4:              #55ead4;
+      --text-title-h5:              #55ead4;
+      --text-title-h6:              #55ead4;
       --text-highlight-bg:          #640211;
       --text-link:                  #83a598; 
       --text-a-hover:               #83a598; 
@@ -57,6 +59,7 @@ background-color: #483699;
          --background-secondary-alt:   #707070; /* ← ↓  corner */
          --text-normal:                #1A2023;
          --text-faint:                 #DEDEDE;
+         --text-title:                 #55ead4;
          --text-title-h1:              #D49335;
          --text-title-h2:              #D49335;
          --text-title-h3:              #D49335;
@@ -80,6 +83,10 @@ background-color: #483699;
          --text-selection:             #EDC180;
          --text-white:                 #ffffff;
      }
+
+.inline-title{
+    color: var(--text-title);
+}
 
 .nav-file-title, .nav-folder-title {
     color: var(--text-normal);

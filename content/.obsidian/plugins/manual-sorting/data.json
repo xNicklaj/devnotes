@@ -18,7 +18,8 @@
     "Resources/Development/Patterns/Singleton.md",
     "Resources/Development/Patterns/State.md",
     "Resources/Development/Patterns/Object Pool.md",
-    "Resources/Development/Patterns/Subclass Sandbox.md"
+    "Resources/Development/Patterns/Subclass Sandbox.md",
+    "Resources/Development/Patterns/Chain of Responsibility.md"
   ],
   "Resources/Electronics": [
     "Resources/Electronics/Phenomenons"

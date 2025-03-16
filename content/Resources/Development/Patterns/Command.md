@@ -2,6 +2,8 @@
 tags: 
 aliases:
 ---
+The command pattern allows to encapsulate functions in **commands objects**
+
 ```c#
 public interface ICommand
 {

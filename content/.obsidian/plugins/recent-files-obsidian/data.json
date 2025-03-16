@@ -5,6 +5,14 @@
       "path": "Resources/Development/Patterns/Command.md"
     },
     {
+      "basename": "Observer",
+      "path": "Resources/Development/Patterns/Observer.md"
+    },
+    {
+      "basename": "Chain of Responsibility",
+      "path": "Resources/Development/Patterns/Chain of Responsibility.md"
+    },
+    {
       "basename": "Coil Whine",
       "path": "Resources/Electronics/Phenomenons/Coil Whine.md"
     },
@@ -27,10 +35,6 @@
     {
       "basename": "Flyweight",
       "path": "Resources/Development/Patterns/Flyweight.md"
-    },
-    {
-      "basename": "Observer",
-      "path": "Resources/Development/Patterns/Observer.md"
     },
     {
       "basename": "2025-03-10",
@@ -195,10 +199,6 @@
     {
       "basename": "Interferenze tra onde",
       "path": "Knowledge/Audio & Sound/Interferenze tra onde.md"
-    },
-    {
-      "basename": "Impedenza acustica",
-      "path": "Knowledge/Audio & Sound/Impedenza acustica.md"
     }
   ],
   "omittedPaths": [
