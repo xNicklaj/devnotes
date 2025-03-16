@@ -19,7 +19,6 @@
   "Appearance-dark@@background-underlying-CSS-dark": "url(\"https://github.com/Akifyss/obsidian-border/blob/main/img/sunset-bg.png?raw=true\") bottom/cover no-repeat fixed",
   "Appearance-dark@@background-underlying-CSS-blend-mode-dark": "none",
   "Appearance-dark@@Active-states-file-explorer-select-dark": "activated-file-tab-style-dark",
-  "note-toolbar@@cg-nt-tbar-bg-color@@dark": "#00000087",
   "primary-theme@@graph-node-unresolved@@dark": "#A5A5A5BA",
   "primary-theme@@graph-node-unresolved-opacity": 0.6,
   "Appearance-dark@@background-primary@@dark": "#2A241D"

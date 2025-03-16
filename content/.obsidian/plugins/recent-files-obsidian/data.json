@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Command",
+      "path": "Resources/Development/Patterns/Command.md"
+    },
+    {
       "basename": "Coil Whine",
       "path": "Resources/Electronics/Phenomenons/Coil Whine.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "Flyweight",
       "path": "Resources/Development/Patterns/Flyweight.md"
-    },
-    {
-      "basename": "Command",
-      "path": "Resources/Development/Patterns/Command.md"
     },
     {
       "basename": "Observer",

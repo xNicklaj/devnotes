@@ -30,17 +30,17 @@
  /* ^^^ added for hover over bracket internal links */
       --inline-code:                #83a598; 
       --code-block:                 #83a598; 
-      --text-a:                     #f8c537; 
-      --interactive-accent:         #f8c537;
-      --text-accent:                #f8c537; 
+      --text-a:                     #c5003c; 
+      --interactive-accent:         #c5003c;
+      --text-accent:                #c5003c; 
       --text-on-accent:             #fff;
-      --interactive-accent-rgb:     #f8c537; 
-      --vim-cursor:                 #f8c537; 
+      --interactive-accent-rgb:     #c5003c; 
+      --vim-cursor:                 #c5003c; 
       /*  --text-mark:                  add text-mark if needed, this should work together with 'mark' */
       --pre-code:                   #;
       --interactive-before:         #7c6f64;
-      --background-modifier-border: #f8c537;
-      --text-selection:            #f8c537;
+      --background-modifier-border: #c5003c;
+      --text-selection:            #c5003c;
       }
 
 .theme-dark .cm-s-obsidian span.obsidian-search-match-highlight {

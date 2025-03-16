@@ -3,5 +3,6 @@
   "theme": "obsidian",
   "baseFontSize": 20,
   "textFontFamily": "Atkinson Hyperlegible",
-  "interfaceFontFamily": "Atkinson Hyperlegible"
+  "interfaceFontFamily": "Atkinson Hyperlegible",
+  "accentColor": "#78699b"
 }
