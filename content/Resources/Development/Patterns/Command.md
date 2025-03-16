@@ -86,10 +86,42 @@ public class CommandInvoker
 ```
 
 ## Decoupling Code Execution and Triggering
+Let's say we want to make a command that a game allows the user to have multiple player characters, and that such player characters have a moving script.
 
+```c#
+public class PlayerMover : MonoBehaviour
+{
+	public void Move(Vector3 movement)
+	{
+		transform.position = transform.position + movement;
+	}
+}
+```
 
+By giving the command a reference to which player to move, it's possible to apply the same command to multiple entities.
+
+```c#
+public class CommandObject : ICommand
+{
+	private PlayerMover _playerMover;
+	private Vector3 _movingDirection;
+
+	public CommandObject(PlayerMover playerMover, Vector3 movingDirection)
+	{
+		_playerMover = playerMover;
+		_movingDirection = movingDirection;
+	}
+
+	public void Execute() {
+		_playerMover.Move(_movingDirection);
+	}
+}
+```
+
+But the real magic happens when you realize that whatever is sending the move command doesn't necessarily have to be an InputManager, but it could also be a ad-hoc artificial intelligence or a network command. The only requirement is that whatever script decides to create the command sends a reference to which player to move and what direction it should go towards.
 ## Undo / Redo Mechanism
-In the player script, let's create two methods, one to move the player and one to verify 
+In the player script, let's create two methods, one to move the player and one to verify whether the executed move is valid.
+
 ```c#
 public class PlayerMover : MonoBehaviour
 {
@@ -107,6 +139,8 @@ public class PlayerMover : MonoBehaviour
 	}
 }
 ```
+
+The move command will take in an argument a reference to the player and the vector that represents the direction in which it's supposed to move.
 
 ```c#
 public class MoveCommand : ICommand
@@ -128,6 +162,24 @@ public class MoveCommand : ICommand
 	public void Undo()
 	{
 		playerMover.Move(-movement);
+	}
+}
+```
+
+The InputManager won't call directly `PlayerMover.Move()` but an additional layer will check whether the command is valid and if true, run the command.
+
+```c#
+private void RunPlayerCommand(PlayerMover playerMover, Vector3 movement)
+{
+	if (playerMover == null)
+	{
+		return;
+	}
+	
+	if (playerMover.IsValidMove(movement))
+	{
+		ICommand command = new MoveCommand(playerMover, movement);
+		CommandInvoker.ExecuteCommand(command);
 	}
 }
 ```
