@@ -19,7 +19,7 @@ jobs:
         uses: konstfish/quartz-build-action@v4
         with:
           source: content
-          page_title: "Nicklaj's Devnotes"
+          page_title: "Nicklaj's Technotes"
           destination: dist
           quartz_layout: quartz.layout.ts
           quartz_config: quartz.config.ts
