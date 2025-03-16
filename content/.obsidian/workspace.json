@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Electronics/Phenomenons/Coil Whine.md",
+                "file": "Resources/Development/Patterns/Subclass Sandbox.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Coil Whine"
-            }
-          },
-          {
-            "id": "73f5a9e0d71b7e9b",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.9"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
+              "title": "Subclass Sandbox"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,8 +103,8 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ]
@@ -140,8 +127,8 @@
             "state": {
               "type": "chronology-calendar-view",
               "state": {},
-              "icon": "clock",
-              "title": "Chronology"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -172,8 +159,8 @@
             "state": {
               "type": "chronology-calendar-view",
               "state": {},
-              "icon": "clock",
-              "title": "Chronology"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ]
@@ -237,17 +224,13 @@
       "daily-notes:Open today's daily note": false,
       "switcher:Open quick switcher": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false,
-      "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false,
-      "chronology:Open Chronology": false,
-      "smart-composer:Open smart composer": false,
-      "obsidian42-brat:BRAT": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "73f5a9e0d71b7e9b",
+  "active": "89d1a42bf1c95487",
   "lastOpenFiles": [
-    
+    "Resources/Development/Patterns/Subclass Sandbox.md",
+    "Resources/Development/Patterns/Command.md",
+    "Resources/Electronics/Phenomenons/Coil Whine.md"
   ]
 }
