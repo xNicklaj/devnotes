@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Coil Whine"
             }
+          },
+          {
+            "id": "73f5a9e0d71b7e9b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,7 +188,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Electronics/Phenomenons/Coil Whine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +197,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Coil Whine"
+              "title": "Backlinks"
             }
           },
           {
@@ -230,11 +242,11 @@
       "omnisearch:Omnisearch": false,
       "obsidian-git:Open Git source control": false,
       "chronology:Open Chronology": false,
-      "obsidian42-brat:BRAT": false,
-      "smart-composer:Open smart composer": false
+      "smart-composer:Open smart composer": false,
+      "obsidian42-brat:BRAT": false
     }
   },
-  "active": "43b483eb05671e30",
+  "active": "73f5a9e0d71b7e9b",
   "lastOpenFiles": [
     "Templates/NewNoteTemplate.md",
     "Templates/IndexTemplate.md",

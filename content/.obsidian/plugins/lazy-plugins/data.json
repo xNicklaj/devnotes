@@ -109,6 +109,9 @@
       },
       "zoottelkeeper-obsidian-plugin": {
         "startupType": "instant"
+      },
+      "manual-sorting": {
+        "startupType": "instant"
       }
     }
   }
