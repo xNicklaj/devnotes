@@ -9,32 +9,32 @@
       "path": "Resources/Development/Patterns/Observer.md"
     },
     {
-      "basename": "Chain of Responsibility",
-      "path": "Resources/Development/Patterns/Chain of Responsibility.md"
-    },
-    {
-      "basename": "Coil Whine",
-      "path": "Resources/Electronics/Phenomenons/Coil Whine.md"
-    },
-    {
-      "basename": "Object Pool",
-      "path": "Resources/Development/Patterns/Object Pool.md"
-    },
-    {
-      "basename": "State",
-      "path": "Resources/Development/Patterns/State.md"
+      "basename": "Flyweight",
+      "path": "Resources/Development/Patterns/Flyweight.md"
     },
     {
       "basename": "Singleton",
       "path": "Resources/Development/Patterns/Singleton.md"
     },
     {
-      "basename": "Prototype",
-      "path": "Resources/Development/Patterns/Prototype.md"
+      "basename": "Chain of Responsibility",
+      "path": "Resources/Development/Patterns/Chain of Responsibility.md"
     },
     {
-      "basename": "Flyweight",
-      "path": "Resources/Development/Patterns/Flyweight.md"
+      "basename": "Object Pool",
+      "path": "Resources/Development/Patterns/Object Pool.md"
+    },
+    {
+      "basename": "Coil Whine",
+      "path": "Resources/Electronics/Phenomenons/Coil Whine.md"
+    },
+    {
+      "basename": "State",
+      "path": "Resources/Development/Patterns/State.md"
+    },
+    {
+      "basename": "Prototype",
+      "path": "Resources/Development/Patterns/Prototype.md"
     },
     {
       "basename": "2025-03-10",
