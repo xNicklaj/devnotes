@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Factory",
-      "path": "Resources/Development/Patterns/Factory.md"
+      "basename": "Single Responsibility",
+      "path": "Resources/Development/Solid/Single Responsibility.md"
+    },
+    {
+      "basename": "Null-coalescing assignment operator",
+      "path": "Resources/Development/Syntax/Null-coalescing assignment operator.md"
+    },
+    {
+      "basename": "SOLID",
+      "path": "Resources/Development/Solid/SOLID.md"
+    },
+    {
+      "basename": "Open-Closed",
+      "path": "Resources/Development/Solid/Open-Closed.md"
+    },
+    {
+      "basename": "Interface segregation",
+      "path": "Resources/Development/Solid/Interface segregation.md"
+    },
+    {
+      "basename": "Dependency inversion",
+      "path": "Resources/Development/Solid/Dependency inversion.md"
+    },
+    {
+      "basename": "Liskov Sustitution",
+      "path": "Resources/Development/Solid/Liskov Sustitution.md"
     },
     {
       "basename": "Command",
@@ -11,6 +35,14 @@
     {
       "basename": "Observer",
       "path": "Resources/Development/Patterns/Observer.md"
+    },
+    {
+      "basename": "Coil Whine",
+      "path": "Resources/Electronics/Phenomenons/Coil Whine.md"
+    },
+    {
+      "basename": "Factory",
+      "path": "Resources/Development/Patterns/Factory.md"
     },
     {
       "basename": "Flyweight",
@@ -27,10 +59,6 @@
     {
       "basename": "Object Pool",
       "path": "Resources/Development/Patterns/Object Pool.md"
-    },
-    {
-      "basename": "Coil Whine",
-      "path": "Resources/Electronics/Phenomenons/Coil Whine.md"
     },
     {
       "basename": "State",
@@ -171,34 +199,6 @@
     {
       "basename": "4. Elaborazione Audio",
       "path": "Materie/Elaborazione Audio Digitale/Appunti/4. Elaborazione Audio.md"
-    },
-    {
-      "basename": "3. Analisi Audio Tempo-Frequenza",
-      "path": "Materie/Elaborazione Audio Digitale/Appunti/3. Analisi Audio Tempo-Frequenza.md"
-    },
-    {
-      "basename": "2. Audio Digitale",
-      "path": "Materie/Elaborazione Audio Digitale/Appunti/2. Audio Digitale.md"
-    },
-    {
-      "basename": "Dispositivi campionati",
-      "path": "Knowledge/Virtual Reality & Game Design/Dispositivi campionati.md"
-    },
-    {
-      "basename": "Architetture",
-      "path": "Materie/Realtà Virtuale/Appunti/Architetture.md"
-    },
-    {
-      "basename": "Touch Feedback",
-      "path": "Knowledge/Virtual Reality & Game Design/Touch Feedback.md"
-    },
-    {
-      "basename": "Acustica",
-      "path": "Knowledge/Audio & Sound/Acustica.md"
-    },
-    {
-      "basename": "Onda armonica",
-      "path": "Knowledge/Audio & Sound/Onda armonica.md"
     }
   ],
   "omittedPaths": [

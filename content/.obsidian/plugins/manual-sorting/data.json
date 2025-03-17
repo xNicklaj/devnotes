@@ -1,14 +1,22 @@
 {
   "/": [
+    "Project",
+    "Area",
     "Resources",
+    "Archive",
     "Templates"
   ],
+  "Archive": [],
+  "Area": [],
+  "Project": [],
   "Resources": [
     "Resources/Development",
     "Resources/Electronics"
   ],
   "Resources/Development": [
-    "Resources/Development/Patterns"
+    "Resources/Development/Patterns",
+    "Resources/Development/Solid",
+    "Resources/Development/Syntax"
   ],
   "Resources/Development/Patterns": [
     "Resources/Development/Patterns/Observer.md",
@@ -18,9 +26,20 @@
     "Resources/Development/Patterns/Singleton.md",
     "Resources/Development/Patterns/State.md",
     "Resources/Development/Patterns/Object Pool.md",
-    "Resources/Development/Patterns/Subclass Sandbox.md",
     "Resources/Development/Patterns/Chain of Responsibility.md",
-    "Resources/Development/Patterns/Factory.md"
+    "Resources/Development/Patterns/Factory.md",
+    "Resources/Development/Patterns/Subclass Sandbox.md"
+  ],
+  "Resources/Development/Solid": [
+    "Resources/Development/Solid/SOLID.md",
+    "Resources/Development/Solid/Single Responsibility.md",
+    "Resources/Development/Solid/Open-Closed.md",
+    "Resources/Development/Solid/Liskov Sustitution.md",
+    "Resources/Development/Solid/Interface segregation.md",
+    "Resources/Development/Solid/Dependency inversion.md"
+  ],
+  "Resources/Development/Syntax": [
+    "Resources/Development/Syntax/Null-coalescing assignment operator.md"
   ],
   "Resources/Electronics": [
     "Resources/Electronics/Phenomenons"
