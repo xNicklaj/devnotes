@@ -2,7 +2,7 @@
   "cssTheme": "Wasp",
   "theme": "obsidian",
   "baseFontSize": 20,
-  "textFontFamily": "Atkinson Hyperlegible",
+  "textFontFamily": "Rajdhani,Atkinson Hyperlegible",
   "interfaceFontFamily": "Atkinson Hyperlegible",
   "accentColor": "#78699b"
 }
