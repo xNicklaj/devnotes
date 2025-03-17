@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Resources/Development/Solid/Single Responsibility.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -236,15 +236,17 @@
   },
   "active": "6c60dd01a1d38f7f",
   "lastOpenFiles": [
+    "Resources/Development/Solid/Liskov Sustitution.md",
+    "Resources/Development/Solid/Single Responsibility.md",
+    "Resources/Development/Solid/Open-Closed.md",
+    "Resources/Development/Solid/assets/Pasted image 20250317222722.png",
+    "Resources/Development/Solid/assets",
     "Resources/Development/Syntax/Null-coalescing assignment operator.md",
     "Resources/Development/Solid/SOLID.md",
     "Resources/Development/Syntax/_Index_Syntax.md",
-    "Resources/Development/Solid/Open-Closed.md",
     "Resources/Development/Syntax",
-    "Resources/Development/Solid/Single Responsibility.md",
     "Resources/Development/Solid/Interface segregation.md",
     "Resources/Development/Solid/Dependency inversion.md",
-    "Resources/Development/Solid/Liskov Sustitution.md",
     "Resources/Development/Solid/_Index_Solid.md",
     "Resources/Development/Patterns/Command.md",
     "Resources/Development/Solid",
@@ -266,12 +268,10 @@
     "Resources/Development/Patterns/Singleton.md",
     "Resources/Development/Patterns/Prototype.md",
     "Resources/Development/Patterns/Flyweight.md",
-    "Resources/Untitled.md",
     "Resources/Development/Patterns",
     "Resources/Development",
     "Resources/Programming",
     "Archive",
-    "Resources",
     "Untitled.canvas",
     "Knowledge/Audio & Sound/assets/Pasted image 20250227131906.png",
     "Knowledge/Virtual Reality & Game Design/Tracker 1/assets/Pasted image 20241101101245.png",
@@ -282,7 +282,6 @@
     "Knowledge/Fisica/assets/Pasted image 20241102081657.png",
     "Knowledge/Fisica/assets/Onde_compression_impulsion_1d_30_petit-ezgif.com-effects.gif",
     "Knowledge/Fisica/assets/Onde_cisaillement_impulsion_1d_30_petit-ezgif.com-effects.gif",
-    "Knowledge/Audio & Sound/assets/Untitled-1 2.png",
     "Materie/Cinema Immersivo/Appunti/Articoli/Analisi Articoli.canvas"
   ]
 }

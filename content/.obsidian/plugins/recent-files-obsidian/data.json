@@ -5,6 +5,14 @@
       "path": "Resources/Development/Solid/Single Responsibility.md"
     },
     {
+      "basename": "Liskov Sustitution",
+      "path": "Resources/Development/Solid/Liskov Sustitution.md"
+    },
+    {
+      "basename": "Open-Closed",
+      "path": "Resources/Development/Solid/Open-Closed.md"
+    },
+    {
       "basename": "Null-coalescing assignment operator",
       "path": "Resources/Development/Syntax/Null-coalescing assignment operator.md"
     },
@@ -13,20 +21,12 @@
       "path": "Resources/Development/Solid/SOLID.md"
     },
     {
-      "basename": "Open-Closed",
-      "path": "Resources/Development/Solid/Open-Closed.md"
-    },
-    {
       "basename": "Interface segregation",
       "path": "Resources/Development/Solid/Interface segregation.md"
     },
     {
       "basename": "Dependency inversion",
       "path": "Resources/Development/Solid/Dependency inversion.md"
-    },
-    {
-      "basename": "Liskov Sustitution",
-      "path": "Resources/Development/Solid/Liskov Sustitution.md"
     },
     {
       "basename": "Command",
