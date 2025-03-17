@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Factory",
+      "path": "Resources/Development/Patterns/Factory.md"
+    },
+    {
       "basename": "Command",
       "path": "Resources/Development/Patterns/Command.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Onda armonica",
       "path": "Knowledge/Audio & Sound/Onda armonica.md"
-    },
-    {
-      "basename": "Interferenze tra onde",
-      "path": "Knowledge/Audio & Sound/Interferenze tra onde.md"
     }
   ],
   "omittedPaths": [

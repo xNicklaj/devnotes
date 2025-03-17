@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Development/Patterns/Command.md",
+                "file": "Resources/Development/Patterns/Factory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Command"
+              "title": "Factory"
             }
           }
         ]
@@ -185,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Development/Patterns/Command.md",
+                "file": "Resources/Development/Patterns/Factory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Command"
+              "title": "Backlinks for Factory"
             }
           },
           {
@@ -244,16 +244,17 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "12038fc99dc27758",
+  "active": "43b483eb05671e30",
   "lastOpenFiles": [
+    "Resources/Development/_Index_Development.md",
+    "Resources/Development/Patterns/_Index_Patterns.md",
+    "Resources/Development/Patterns/Command.md",
+    "Resources/Development/Patterns/Factory.md",
     "Resources/Development/Patterns/Observer.md",
     "Resources/Development/Patterns/Flyweight.md",
-    "Resources/Development/Patterns/Command.md",
     "Resources/Development/Patterns/Singleton.md",
     "Resources/Development/Patterns/Chain of Responsibility.md",
     "Resources/Development/Patterns/Object Pool.md",
-    "Resources/Development/_Index_Development.md",
-    "Resources/Development/Patterns/_Index_Patterns.md",
     "Resources/Development/Patterns/Subclass Sandbox.md",
     "Resources/Electronics/Phenomenons/Coil Whine.md"
   ]
