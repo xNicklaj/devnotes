@@ -112,6 +112,9 @@
       },
       "manual-sorting": {
         "startupType": "instant"
+      },
+      "code-styler": {
+        "startupType": "instant"
       }
     }
   }
