@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Open-Closed",
+      "path": "Resources/Development/Solid/Open-Closed.md"
+    },
+    {
       "basename": "Single Responsibility",
       "path": "Resources/Development/Solid/Single Responsibility.md"
     },
     {
       "basename": "Liskov Sustitution",
       "path": "Resources/Development/Solid/Liskov Sustitution.md"
-    },
-    {
-      "basename": "Open-Closed",
-      "path": "Resources/Development/Solid/Open-Closed.md"
     },
     {
       "basename": "Null-coalescing assignment operator",
