@@ -1,3 +1,8 @@
+---
+tags: 
+aliases:
+  - Liskov Substitution Principle
+---
 Liskov Sustitution (LSP) states that **a derived class should be substitutable to its base class without breaking the code**. 
 
 Some criterias that help you understand whether you're breaking Liskov Substitution are:

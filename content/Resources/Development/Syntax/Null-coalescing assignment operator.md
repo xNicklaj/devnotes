@@ -1,6 +1,6 @@
 In C#, starting from .NET 8.0 it's possible to use this operator to assign a value to a variable only if it's currently null.
 
-```c#
+```csharp
 [RequireComponent(typeof(SpriteRenderer))]
 public class MyCustomClass
 {

@@ -14,7 +14,7 @@ In the words of Robert Nystrom[^citation]:
 A command can be created by implementing an interface with at least the Execute method. This is where you're supposed to put all the code logic that the command should execute. 
 The undo method instead is what you're supposed to call when you want to restore the system to the state prior the execution. Note that there is no need for a redo method, as you can simply re-execute the command.
 
-```c#
+```csharp
 public interface ICommand
 {
 	public void Execute();
@@ -24,7 +24,7 @@ public interface ICommand
 
 The interface is implemented in the CommandObject, which can contain different parameters depending on what you want it to do. In this case, simply as example we have a string parameters, but you can watch the examples further in the page to check a real case scenario of the command pattern in action.
 
-```c#
+```csharp
 public class CommandObject : ICommand
 {
 	private string _executionParameters;
@@ -46,7 +46,7 @@ public class CommandObject : ICommand
 
 All the commands are saved to an **invoker** (or scheduler) that can use either a **queue** (first-in-first-out) or a **stack** (last-in-first-out). This is what will detain the responsibility to execute and undo the command.
 
-```c#
+```csharp
 // FIFO version
 public class CommandInvoker
 {

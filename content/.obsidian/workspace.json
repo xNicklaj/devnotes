@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Development/Solid/Interface segregation.md",
+                "file": "Resources/Development/Solid/Dependency inversion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Interface segregation"
+              "title": "Dependency inversion"
             }
           }
         ]
@@ -79,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "profondi",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -159,6 +159,16 @@
             "state": {
               "type": "chronology-calendar-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "1fc348b21a63e151",
+            "type": "leaf",
+            "state": {
+              "type": "chronology-calendar-view",
+              "state": {},
               "icon": "clock",
               "title": "Chronology"
             }
@@ -175,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Development/Solid/Interface segregation.md",
+                "file": "Resources/Development/Solid/Dependency inversion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +195,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Interface segregation"
+              "title": "Backlinks for Dependency inversion"
             }
           },
           {
@@ -230,27 +240,28 @@
       "omnisearch:Omnisearch": false,
       "obsidian-git:Open Git source control": false,
       "chronology:Open Chronology": false,
-      "smart-composer:Open smart composer": false,
-      "obsidian42-brat:BRAT": false
+      "obsidian42-brat:BRAT": false,
+      "smart-composer:Open smart composer": false
     }
   },
-  "active": "6c60dd01a1d38f7f",
+  "active": "43b483eb05671e30",
   "lastOpenFiles": [
-    "Resources/Development/Solid/SOLID.md",
-    "Resources/Development/Solid/Interface segregation.md",
     "Resources/Development/Solid/Liskov Sustitution.md",
+    "Resources/Development/Solid/Interface segregation.md",
+    "Resources/Development/Solid/Single Responsibility.md",
+    "Resources/Development/Solid/Open-Closed.md",
+    "Resources/Development/Solid/Dependency inversion.md",
+    "Resources/Development/Syntax/Null-coalescing assignment operator.md",
+    "Resources/Development/Solid/SOLID.md",
+    "Resources/Development/Patterns/Command.md",
+    "Resources/Development/Solid/assets/Pasted image 20250318094216.png",
     "Resources/Development/Solid/assets/Pasted image 20250318092514.png",
     "Resources/Development/Solid/assets/Pasted image 20250318092121.png",
-    "Resources/Development/Solid/Open-Closed.md",
-    "Resources/Development/Solid/Single Responsibility.md",
     "Resources/Development/Solid/assets/Pasted image 20250317222722.png",
     "Resources/Development/Solid/assets",
-    "Resources/Development/Syntax/Null-coalescing assignment operator.md",
     "Resources/Development/Syntax/_Index_Syntax.md",
     "Resources/Development/Syntax",
-    "Resources/Development/Solid/Dependency inversion.md",
     "Resources/Development/Solid/_Index_Solid.md",
-    "Resources/Development/Patterns/Command.md",
     "Resources/Development/Solid",
     "Resources/Development/Patterns/Observer.md",
     "Resources/Electronics/Phenomenons/Coil Whine.md",
@@ -281,7 +292,6 @@
     "Knowledge/Virtual Reality & Game Design/Tracker 1/assets/Pasted image 20241101092149.png",
     "Knowledge/Fisica/assets/Pasted image 20241106082312.png",
     "Knowledge/Fisica/assets/Pasted image 20241102082112.png",
-    "Knowledge/Fisica/assets/Pasted image 20241102081657.png",
     "Materie/Cinema Immersivo/Appunti/Articoli/Analisi Articoli.canvas"
   ]
 }
