@@ -9,6 +9,9 @@ The Interface Segregation Principle (ISP) states that a class should not depend 
 > In other words, **avoid large interfaces**[^1]. Follow the same idea as the single responsibility principle, which tells you to **keep classes and methods short**. This gives you maximum flexibility, keeping interfaces compact and focused.
 
 Many times this translates to **favor composition over inheritance**, similarly to what you can see with the [[Liskov Sustitution|Liskov Susbtitution Principle]].
+
+> [!tip] In Short
+> Keep your interfaces short with a few methods. Clients only implement what they need.
 ## Distructable Prop
 Let's say you have an RTS with multiple units that all have the usual entity components, health, damage, attack stats, defense stats. You will make all your units implement this interface.
 ```csharp

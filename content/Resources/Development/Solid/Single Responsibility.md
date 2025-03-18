@@ -19,6 +19,9 @@ Similarly, each function should encapsulate only one piece of logic.
 > 
 > Though you can create the same functionality without the patterns (and often more quickly), something fast and easy doesn’t necessarily result in something simple. 
 > Making something simple means making it focused. Design it to do one thing, and don’t overcomplicate it with other tasks.
+
+> [!tip] In Short
+> Make sure your classes only do one thing and have only one reason to change.
 ## Monolithic Class Design
 Here's what a monolithic class design looks like. This class is supposed to *read* the player input, *move* the player by a specific amount each frame and whenever a bounce happens *play* and AudioClip. However, all these behaviours are included in a single monolithic class that make it harder than it should to read and comprehend.
 

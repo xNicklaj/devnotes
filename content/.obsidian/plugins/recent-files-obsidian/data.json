@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Dependency inversion",
-      "path": "Resources/Development/Solid/Dependency inversion.md"
+      "basename": "Single Responsibility",
+      "path": "Resources/Development/Solid/Single Responsibility.md"
+    },
+    {
+      "basename": "Open-Closed",
+      "path": "Resources/Development/Solid/Open-Closed.md"
     },
     {
       "basename": "Liskov Sustitution",
@@ -13,12 +17,8 @@
       "path": "Resources/Development/Solid/Interface segregation.md"
     },
     {
-      "basename": "Single Responsibility",
-      "path": "Resources/Development/Solid/Single Responsibility.md"
-    },
-    {
-      "basename": "Open-Closed",
-      "path": "Resources/Development/Solid/Open-Closed.md"
+      "basename": "Dependency inversion",
+      "path": "Resources/Development/Solid/Dependency inversion.md"
     },
     {
       "basename": "Null-coalescing assignment operator",

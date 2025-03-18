@@ -18,6 +18,8 @@ To help in this task, it's very useful to use **composition over inheritance** b
 >Instead when pondering about composition, ask your self **is** `Arm` **part of a** `Human`?
 >Moreover keep in mind that our knowledge of the world sometimes leads us astray when creating Class APIs, as you will see later with the train example.
 
+> [!tip] In Short
+> Subclasses should be substitutable for their base classes.
 ## Train Example
 Let's suppose we need our game to have different vehicles, so we create a class `Vehicle` and then whatever we need will inherit from this class.
 ![[Pasted image 20250318092121.png|600]]
