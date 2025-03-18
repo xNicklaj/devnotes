@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Development/Solid/Liskov Sustitution.md",
+                "file": "Resources/Development/Solid/Interface segregation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Liskov Sustitution"
+              "title": "Interface segregation"
             }
           }
         ]
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Development/Solid/Liskov Sustitution.md",
+                "file": "Resources/Development/Solid/Interface segregation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Liskov Sustitution"
+              "title": "Backlinks for Interface segregation"
             }
           },
           {
@@ -236,16 +236,18 @@
   },
   "active": "6c60dd01a1d38f7f",
   "lastOpenFiles": [
+    "Resources/Development/Solid/SOLID.md",
+    "Resources/Development/Solid/Interface segregation.md",
+    "Resources/Development/Solid/Liskov Sustitution.md",
+    "Resources/Development/Solid/assets/Pasted image 20250318092514.png",
+    "Resources/Development/Solid/assets/Pasted image 20250318092121.png",
     "Resources/Development/Solid/Open-Closed.md",
     "Resources/Development/Solid/Single Responsibility.md",
-    "Resources/Development/Solid/Liskov Sustitution.md",
     "Resources/Development/Solid/assets/Pasted image 20250317222722.png",
     "Resources/Development/Solid/assets",
     "Resources/Development/Syntax/Null-coalescing assignment operator.md",
-    "Resources/Development/Solid/SOLID.md",
     "Resources/Development/Syntax/_Index_Syntax.md",
     "Resources/Development/Syntax",
-    "Resources/Development/Solid/Interface segregation.md",
     "Resources/Development/Solid/Dependency inversion.md",
     "Resources/Development/Solid/_Index_Solid.md",
     "Resources/Development/Patterns/Command.md",
@@ -280,8 +282,6 @@
     "Knowledge/Fisica/assets/Pasted image 20241106082312.png",
     "Knowledge/Fisica/assets/Pasted image 20241102082112.png",
     "Knowledge/Fisica/assets/Pasted image 20241102081657.png",
-    "Knowledge/Fisica/assets/Onde_compression_impulsion_1d_30_petit-ezgif.com-effects.gif",
-    "Knowledge/Fisica/assets/Onde_cisaillement_impulsion_1d_30_petit-ezgif.com-effects.gif",
     "Materie/Cinema Immersivo/Appunti/Articoli/Analisi Articoli.canvas"
   ]
 }

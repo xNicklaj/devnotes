@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Interface segregation",
+      "path": "Resources/Development/Solid/Interface segregation.md"
+    },
+    {
+      "basename": "SOLID",
+      "path": "Resources/Development/Solid/SOLID.md"
+    },
+    {
       "basename": "Liskov Sustitution",
       "path": "Resources/Development/Solid/Liskov Sustitution.md"
     },
@@ -15,14 +23,6 @@
     {
       "basename": "Null-coalescing assignment operator",
       "path": "Resources/Development/Syntax/Null-coalescing assignment operator.md"
-    },
-    {
-      "basename": "SOLID",
-      "path": "Resources/Development/Solid/SOLID.md"
-    },
-    {
-      "basename": "Interface segregation",
-      "path": "Resources/Development/Solid/Interface segregation.md"
     },
     {
       "basename": "Dependency inversion",
