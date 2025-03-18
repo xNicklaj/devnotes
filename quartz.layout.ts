@@ -29,7 +29,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer({
       filterFn: (node) => {
-        return !node.name.startsWith("Templates")
+        return !node.name.startsWith("_")
       },
     })),
   ],
