@@ -240,11 +240,11 @@
       "omnisearch:Omnisearch": false,
       "obsidian-git:Open Git source control": false,
       "chronology:Open Chronology": false,
-      "obsidian42-brat:BRAT": false,
-      "smart-composer:Open smart composer": false
+      "smart-composer:Open smart composer": false,
+      "obsidian42-brat:BRAT": false
     }
   },
-  "active": "43b483eb05671e30",
+  "active": "6c60dd01a1d38f7f",
   "lastOpenFiles": [
     "Resources/Development/Solid/Liskov Sustitution.md",
     "Resources/Development/Solid/Interface segregation.md",
