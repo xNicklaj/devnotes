@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "SOAP",
+      "path": "Resources/Development/Architectural Patterns/SOAP.md"
+    },
+    {
       "basename": "Factory",
-      "path": "Resources/Development/Patterns/Factory.md"
+      "path": "Resources/Development/Design Patterns/Factory.md"
     },
     {
       "basename": "Observer",
-      "path": "Resources/Development/Patterns/Observer.md"
+      "path": "Resources/Development/Design Patterns/Observer.md"
     },
     {
       "basename": "Interface segregation",
@@ -26,7 +30,7 @@
     },
     {
       "basename": "Subclass Sandbox",
-      "path": "Resources/Development/Patterns/Subclass Sandbox.md"
+      "path": "Resources/Development/Design Patterns/Subclass Sandbox.md"
     },
     {
       "basename": "SOLID",
@@ -42,7 +46,7 @@
     },
     {
       "basename": "Command",
-      "path": "Resources/Development/Patterns/Command.md"
+      "path": "Resources/Development/Design Patterns/Command.md"
     },
     {
       "basename": "Coil Whine",
@@ -50,27 +54,27 @@
     },
     {
       "basename": "Flyweight",
-      "path": "Resources/Development/Patterns/Flyweight.md"
+      "path": "Resources/Development/Design Patterns/Flyweight.md"
     },
     {
       "basename": "Singleton",
-      "path": "Resources/Development/Patterns/Singleton.md"
+      "path": "Resources/Development/Design Patterns/Singleton.md"
     },
     {
       "basename": "Chain of Responsibility",
-      "path": "Resources/Development/Patterns/Chain of Responsibility.md"
+      "path": "Resources/Development/Design Patterns/Chain of Responsibility.md"
     },
     {
       "basename": "Object Pool",
-      "path": "Resources/Development/Patterns/Object Pool.md"
+      "path": "Resources/Development/Design Patterns/Object Pool.md"
     },
     {
       "basename": "State",
-      "path": "Resources/Development/Patterns/State.md"
+      "path": "Resources/Development/Design Patterns/State.md"
     },
     {
       "basename": "Prototype",
-      "path": "Resources/Development/Patterns/Prototype.md"
+      "path": "Resources/Development/Design Patterns/Prototype.md"
     },
     {
       "basename": "2025-03-10",
@@ -195,10 +199,6 @@
     {
       "basename": "Trasformata di Fourier",
       "path": "Knowledge/Ingegneria, Informatica & Elettronica/Trasformata di Fourier.md"
-    },
-    {
-      "basename": "Broadcast",
-      "path": "Knowledge/Ingegneria, Informatica & Elettronica/Broadcast.md"
     }
   ],
   "omittedPaths": [
