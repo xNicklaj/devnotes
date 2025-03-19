@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Null Object Pattern",
+      "path": "Resources/Development/Design Patterns/Null Object Pattern.md"
+    },
+    {
       "basename": "SOAP",
       "path": "Resources/Development/Architectural Patterns/SOAP.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Sistemi Elettronici per la Produzione e Distribuzione",
       "path": "Materie/Sistemi Elettronici/Sistemi Elettronici per la Produzione e Distribuzione.md"
-    },
-    {
-      "basename": "_Index_Video & Computer Graphics",
-      "path": "Knowledge/Video & Computer Graphics/_Index_Video & Computer Graphics.md"
     }
   ],
   "omittedPaths": [

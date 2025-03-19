@@ -5,6 +5,7 @@
  [[Resources/Development/Design Patterns/Command|Command]]
  [[Resources/Development/Design Patterns/Factory|Factory]]
  [[Resources/Development/Design Patterns/Flyweight|Flyweight]]
+ [[Resources/Development/Design Patterns/Null Object Pattern|Null Object Pattern]]
  [[Resources/Development/Design Patterns/Object Pool|Object Pool]]
  [[Resources/Development/Design Patterns/Observer|Observer]]
  [[Resources/Development/Design Patterns/Prototype|Prototype]]

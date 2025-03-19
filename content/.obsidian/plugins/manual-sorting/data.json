@@ -33,7 +33,8 @@
     "Resources/Development/Design Patterns/Prototype.md",
     "Resources/Development/Design Patterns/Singleton.md",
     "Resources/Development/Design Patterns/State.md",
-    "Resources/Development/Design Patterns/Subclass Sandbox.md"
+    "Resources/Development/Design Patterns/Subclass Sandbox.md",
+    "Resources/Development/Design Patterns/Null Object Pattern.md"
   ],
   "Resources/Development/Solid": [
     "Resources/Development/Solid/SOLID.md",

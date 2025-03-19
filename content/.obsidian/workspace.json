@@ -11,10 +11,14 @@
             "id": "6ad5839a3e6281c2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Resources/Development/Design Patterns/Null Object Pattern.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Null Object Pattern"
             }
           }
         ]
@@ -181,6 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Resources/Development/Design Patterns/Null Object Pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +195,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Null Object Pattern"
             }
           },
           {
@@ -241,6 +246,7 @@
   },
   "active": "6ad5839a3e6281c2",
   "lastOpenFiles": [
+    "Resources/Development/Design Patterns/Null Object Pattern.md",
     "_Index_content.md",
     "Resources/Development/Patterns/Factory.md",
     "Resources/_Index_Resources.md",
@@ -270,7 +276,6 @@
     "Resources/Development/Patterns/Observer.md",
     "Resources/Development/Solid/Interface segregation.md",
     "Resources/Development/Solid/Liskov Sustitution.md",
-    "Resources/Development/Solid/Open-Closed.md",
     "Resources/Development/Solid/assets/Pasted image 20250318131041.png",
     "Resources/Development/Solid/assets/Pasted image 20250318130221.png",
     "Resources/Development/Solid/assets/Pasted image 20250318094216.png",
