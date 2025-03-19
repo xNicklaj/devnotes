@@ -14,7 +14,16 @@ You can basically replace all [[Singleton|singletons]] with Scriptable Objects.
 
 
 ## Controlling GameObjects behaviour via ScriptableEvents
-You can insert an **Event** in a scriptable and use it to control the order 
+You can insert an **Event** in a scriptable and use it to control the execution order of functions for GameObjects.
 
+![[Pasted image 20250319091349.png]]
+
+This create some sort of **Single Entry Point** without even having to touch code.
+
+## Runtime Variables with ScriptableObjects
+
+```csharp
+[CreateAssetMenu()]
+```
 
 [^1]: [Unity Architecture: Scriptable Objects Pattern](https://medium.com/@simon.nordon/unity-architecture-scriptable-object-pattern-0a6c25b2d741)

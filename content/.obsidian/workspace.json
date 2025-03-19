@@ -246,6 +246,8 @@
   },
   "active": "12038fc99dc27758",
   "lastOpenFiles": [
+    "Resources/Development/Architectural Patterns/assets/Pasted image 20250319091349.png",
+    "Resources/Development/Architectural Patterns/assets",
     "Resources/Development/Architectural Patterns/Model View Controller.md",
     "Resources/Development/Architectural Patterns/SOAP.md",
     "Resources/Development/Architectural Patterns/_Index_Architectural Patterns.md",
@@ -280,7 +282,6 @@
     "Resources/Development/Design Patterns/Singleton.md",
     "Resources/Development/Design Patterns/Chain of Responsibility.md",
     "Resources/Development/Design Patterns/Object Pool.md",
-    "Resources/Development/Design Patterns/Subclass Sandbox.md",
-    "Resources/Electronics/Phenomenons/Coil Whine.md"
+    "Resources/Development/Design Patterns/Subclass Sandbox.md"
   ]
 }
