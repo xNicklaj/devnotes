@@ -5,6 +5,10 @@
       "path": "Resources/Development/Architectural Patterns/SOAP.md"
     },
     {
+      "basename": "Model View Controller",
+      "path": "Resources/Development/Architectural Patterns/Model View Controller.md"
+    },
+    {
       "basename": "Factory",
       "path": "Resources/Development/Design Patterns/Factory.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_Index_Video & Computer Graphics",
       "path": "Knowledge/Video & Computer Graphics/_Index_Video & Computer Graphics.md"
-    },
-    {
-      "basename": "Trasformata di Fourier",
-      "path": "Knowledge/Ingegneria, Informatica & Elettronica/Trasformata di Fourier.md"
     }
   ],
   "omittedPaths": [

@@ -14,7 +14,8 @@
     "Resources/Development/Architectural Patterns"
   ],
   "Resources/Development/Architectural Patterns": [
-    "Resources/Development/Architectural Patterns/SOAP.md"
+    "Resources/Development/Architectural Patterns/SOAP.md",
+    "Resources/Development/Architectural Patterns/Model View Controller.md"
   ],
   "Resources/Development/Design Patterns": [
     "Resources/Development/Design Patterns/Observer.md",
