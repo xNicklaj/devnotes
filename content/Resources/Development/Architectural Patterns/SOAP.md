@@ -21,9 +21,64 @@ You can insert an **Event** in a scriptable and use it to control the execution 
 This create some sort of **Single Entry Point** without even having to touch code.
 
 ## Runtime Variables with ScriptableObjects
+It's possible to create different types of variables 
+```csharp
+[CreateAssetMenu(menuName = "Variables\Int Variable")]
+public class IntVariable : ScriptableObject {
+	[SerializeField] int _initialValue;
+	[SerializeField] int _value;
+
+	public UnityEvent<int> OnValueChanged = delegate {};
+
+	public int Value {
+		get => _value;
+		set {
+			if(this._value == value) return;
+			this._value = value;
+			OnValueChanged.Invoke(value);
+		}
+	}
+}
+```
 
 ```csharp
-[CreateAssetMenu()]
+[CustomPropertyDrawer(typeof(IntVariable))]
+public class IntVariableDrawer : PropertyDrawer{
+	public override VisualElement CreatePropertyGUI(SerializedProperty property){
+		VisualElement container = new VisualElement();
+		ObjectField objectField = new ObjectField(property.displayName){
+			objectType = typeof(IntVariable);
+		};
+		objectField.BindProperty(property);
+
+		Label valueLabel = new Label();
+		valueLabel.style.paddingLeft = 20;
+
+		container.Add(objectField);
+		container.Add(valueLabel);
+
+		objectField.RegisterValueChangedCallback(evt => {
+			IntVariable variable = evt.newValue as IntVariable;
+			if(variable != null){
+				valueLabel.text = $"Current Value: {variable.Value}";
+				variable.OnValueChanged += newValue => valueLabel.text = $"Current Value: {newValue}";
+			} else {
+				valueLabel.text = string.Empty;
+			}
+		
+		});
+
+
+		IntVariable currentVariable = property.objectReferenceValue as IntVariable;
+		if(currentVariable != null){
+			valueLabel.text = $"Current Value: {currentVariable.Value}";
+			variable.OnValueChanged += newValue => valueLabel.text = $"Current Value: {newValue}";
+		}
+
+
+		return container;
+	}
+}
 ```
 
 [^1]: [Unity Architecture: Scriptable Objects Pattern](https://medium.com/@simon.nordon/unity-architecture-scriptable-object-pattern-0a6c25b2d741)
