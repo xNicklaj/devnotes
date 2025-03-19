@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d1751a747000c41f",
+        "id": "1727de7a6e20b768",
         "type": "tabs",
         "children": [
           {
-            "id": "6c60dd01a1d38f7f",
+            "id": "6ad5839a3e6281c2",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -239,7 +239,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "6c60dd01a1d38f7f",
+  "active": "6ad5839a3e6281c2",
   "lastOpenFiles": [
     "_Index_content.md",
     "Resources/Development/Patterns/Factory.md",
