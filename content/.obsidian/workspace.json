@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f7dd6f68965aa6a8",
+        "id": "d1751a747000c41f",
         "type": "tabs",
         "children": [
           {
-            "id": "12038fc99dc27758",
+            "id": "6c60dd01a1d38f7f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resources/Development/Architectural Patterns/SOAP.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "SOAP"
+              "title": "New tab"
             }
           }
         ]
@@ -79,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "profondi",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -164,7 +160,7 @@
             }
           },
           {
-            "id": "d990a6089ba06229",
+            "id": "1fc348b21a63e151",
             "type": "leaf",
             "state": {
               "type": "chronology-calendar-view",
@@ -185,7 +181,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Development/Architectural Patterns/SOAP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +190,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for SOAP"
+              "title": "Backlinks"
             }
           },
           {
@@ -244,24 +239,38 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "12038fc99dc27758",
+  "active": "6c60dd01a1d38f7f",
   "lastOpenFiles": [
-    "Resources/Development/Architectural Patterns/assets/Pasted image 20250319091349.png",
-    "Resources/Development/Architectural Patterns/assets",
-    "Resources/Development/Architectural Patterns/Model View Controller.md",
-    "Resources/Development/Architectural Patterns/SOAP.md",
-    "Resources/Development/Architectural Patterns/_Index_Architectural Patterns.md",
-    "Resources/Development/Design Patterns/Factory.md",
-    "Resources/Development/Architectural Patterns",
-    "Resources/Development/Design Patterns/_Index_Design Patterns.md",
-    "Resources/Development/Design Patterns/_Index_DesignPatterns.md",
-    "Resources/Development/Design Patterns/_Index_Patterns.md",
+    "_Index_content.md",
+    "Resources/Development/Patterns/Factory.md",
     "Resources/_Index_Resources.md",
-    "Resources/Development/Solid/_Index_Solid.md",
     "Resources/Development/_Index_Development.md",
     "Resources/Development/Syntax/_Index_Syntax.md",
-    "Resources/Development/Syntax/Null-coalescing assignment operator.md",
-    "Resources/Development/Syntax",
+    "Resources/Development/Solid/_Index_Solid.md",
+    "Resources/Development/Design Patterns/_Index_Patterns.md",
+    "Resources/Development/Design Patterns/_Index_DesignPatterns.md",
+    "Resources/Development/Design Patterns/_Index_Design Patterns.md",
+    "Resources/Development/Design Patterns/Subclass Sandbox.md",
+    "Resources/Development/Design Patterns/State.md",
+    "Resources/Development/Design Patterns/Singleton.md",
+    "Resources/Development/Design Patterns/Prototype.md",
+    "Resources/Development/Design Patterns/Observer.md",
+    "Resources/Development/Design Patterns/Object Pool.md",
+    "Resources/Development/Design Patterns/Flyweight.md",
+    "Resources/Development/Design Patterns/Factory.md",
+    "Resources/Development/Design Patterns/Command.md",
+    "Resources/Development/Design Patterns/Chain of Responsibility.md",
+    "Resources/Development/Design Patterns",
+    "Resources/Development/Architectural Patterns/assets/Pasted image 20250319091349.png",
+    "Resources/Development/Architectural Patterns/assets",
+    "Resources/Development/Architectural Patterns/_Index_Architectural Patterns.md",
+    "Resources/Development/Architectural Patterns/SOAP.md",
+    "Resources/Development/Architectural Patterns/Model View Controller.md",
+    "Resources/Development/Architectural Patterns",
+    "Resources/Development/Patterns/Observer.md",
+    "Resources/Development/Solid/Interface segregation.md",
+    "Resources/Development/Solid/Liskov Sustitution.md",
+    "Resources/Development/Solid/Open-Closed.md",
     "Resources/Development/Solid/assets/Pasted image 20250318131041.png",
     "Resources/Development/Solid/assets/Pasted image 20250318130221.png",
     "Resources/Development/Solid/assets/Pasted image 20250318094216.png",
@@ -269,19 +278,16 @@
     "Resources/Development/Solid/assets/Pasted image 20250318092121.png",
     "Resources/Development/Solid/assets/Pasted image 20250317222722.png",
     "Resources/Development/Solid/assets",
-    "Resources/Development/Solid/Single Responsibility.md",
-    "Resources/Development/Solid/SOLID.md",
-    "Resources/Development/Solid/Open-Closed.md",
-    "Resources/Development/Solid/Liskov Sustitution.md",
-    "Resources/Development/Solid/Interface segregation.md",
-    "Resources/Development/Solid/Dependency inversion.md",
+    "Resources/Development/Syntax",
     "Resources/Development/Solid",
-    "Resources/Development/Design Patterns/Command.md",
-    "Resources/Development/Design Patterns/Observer.md",
-    "Resources/Development/Design Patterns/Flyweight.md",
-    "Resources/Development/Design Patterns/Singleton.md",
-    "Resources/Development/Design Patterns/Chain of Responsibility.md",
-    "Resources/Development/Design Patterns/Object Pool.md",
-    "Resources/Development/Design Patterns/Subclass Sandbox.md"
+    "Templates",
+    "Resources/Electronics/Phenomenons",
+    "Resources/Electronics",
+    "Resources/Development/Patterns",
+    "Untitled.canvas",
+    "Knowledge/Audio & Sound/assets/Pasted image 20250227131906.png",
+    "Knowledge/Virtual Reality & Game Design/Tracker 1/assets/Pasted image 20241101101245.png",
+    "Knowledge/Virtual Reality & Game Design/Tracker 1/assets/Pasted image 20241101100036.png",
+    "Materie/Cinema Immersivo/Appunti/Articoli/Analisi Articoli.canvas"
   ]
 }
