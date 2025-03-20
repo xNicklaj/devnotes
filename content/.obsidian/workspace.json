@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Development/Design Patterns/Object Pool.md",
-                "mode": "preview",
+                "file": "Resources/Development/Design Patterns/State.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Object Pool"
+              "title": "State"
             }
           }
         ]
@@ -185,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Development/Design Patterns/Object Pool.md",
+                "file": "Resources/Development/Design Patterns/State.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Object Pool"
+              "title": "Backlinks for State"
             }
           },
           {
@@ -246,6 +246,11 @@
   },
   "active": "12038fc99dc27758",
   "lastOpenFiles": [
+    "Resources/Development/Design Patterns/Singleton.md",
+    "Resources/Development/Design Patterns/Prototype.md",
+    "Resources/Development/Design Patterns/Subclass Sandbox.md",
+    "Resources/Development/Design Patterns/Object Pool.md",
+    "Resources/Development/Design Patterns/State.md",
     "Resources/Development/Design Patterns/Flyweight.md",
     "Resources/Development/Design Patterns/Command.md",
     "Resources/Development/Syntax/Null-coalescing assignment operator.md",
@@ -279,10 +284,6 @@
     "Resources/Development/Solid/assets",
     "Resources/Development/Solid/SOLID.md",
     "Resources/Development/Solid/Open-Closed.md",
-    "Resources/Development/Solid/Liskov Sustitution.md",
-    "Resources/Development/Solid/Interface segregation.md",
-    "Resources/Development/Solid",
-    "Resources/Development/Design Patterns/Observer.md",
-    "Resources/Development/Design Patterns/Singleton.md"
+    "Resources/Development/Solid"
   ]
 }

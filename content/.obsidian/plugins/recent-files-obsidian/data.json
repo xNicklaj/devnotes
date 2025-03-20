@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "State",
+      "path": "Resources/Development/Design Patterns/State.md"
+    },
+    {
+      "basename": "Singleton",
+      "path": "Resources/Development/Design Patterns/Singleton.md"
+    },
+    {
+      "basename": "Prototype",
+      "path": "Resources/Development/Design Patterns/Prototype.md"
+    },
+    {
+      "basename": "Subclass Sandbox",
+      "path": "Resources/Development/Design Patterns/Subclass Sandbox.md"
+    },
+    {
       "basename": "Object Pool",
       "path": "Resources/Development/Design Patterns/Object Pool.md"
     },
@@ -61,28 +77,12 @@
       "path": "Resources/Development/Design Patterns/Observer.md"
     },
     {
-      "basename": "Subclass Sandbox",
-      "path": "Resources/Development/Design Patterns/Subclass Sandbox.md"
-    },
-    {
       "basename": "Coil Whine",
       "path": "Resources/Electronics/Phenomenons/Coil Whine.md"
     },
     {
-      "basename": "Singleton",
-      "path": "Resources/Development/Design Patterns/Singleton.md"
-    },
-    {
       "basename": "Chain of Responsibility",
       "path": "Resources/Development/Design Patterns/Chain of Responsibility.md"
-    },
-    {
-      "basename": "State",
-      "path": "Resources/Development/Design Patterns/State.md"
-    },
-    {
-      "basename": "Prototype",
-      "path": "Resources/Development/Design Patterns/Prototype.md"
     },
     {
       "basename": "2025-03-10",
