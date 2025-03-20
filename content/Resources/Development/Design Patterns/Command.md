@@ -66,7 +66,7 @@ public class CommandInvoker
 
 Typically you'll want to use a LIFO version if you need to add an undo functionality so that you can use the stack to hold the command history.
 
-```c#
+```csharp
 // LIFO version
 public class CommandInvoker
 {
@@ -88,7 +88,7 @@ public class CommandInvoker
 ## Decoupling Code Execution and Triggering
 Let's say we want to make a command that a game allows the user to have multiple player characters, and that such player characters have a moving script.
 
-```c#
+```csharp
 public class PlayerMover : MonoBehaviour
 {
 	public void Move(Vector3 movement)
@@ -100,7 +100,7 @@ public class PlayerMover : MonoBehaviour
 
 By giving the command a reference to which player to move, it's possible to apply the same command to multiple entities.
 
-```c#
+```csharp
 public class CommandObject : ICommand
 {
 	private PlayerMover _playerMover;
@@ -122,7 +122,7 @@ But the real magic happens when you realize that whatever is sending the move co
 ## Undo / Redo Mechanism
 In the player script, let's create two methods, one to move the player and one to verify whether the executed move is valid.
 
-```c#
+```csharp
 public class PlayerMover : MonoBehaviour
 {
 	[SerializeField] private LayerMask obstacleLayer;
@@ -142,7 +142,7 @@ public class PlayerMover : MonoBehaviour
 
 The move command will take in an argument a reference to the player and the vector that represents the direction in which it's supposed to move.
 
-```c#
+```csharp
 public class MoveCommand : ICommand
 {
 	PlayerMover playerMover;
@@ -168,7 +168,7 @@ public class MoveCommand : ICommand
 
 The InputManager won't call directly `PlayerMover.Move()` but an additional layer will check whether the command is valid and if true, run the command.
 
-```c#
+```csharp
 private void RunPlayerCommand(PlayerMover playerMover, Vector3 movement)
 {
 	if (playerMover == null)

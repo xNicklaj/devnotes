@@ -1,48 +1,42 @@
 {
   "/": [
-    "Project",
-    "Area",
     "Resources",
-    "Archive",
     "Templates"
   ],
-  "Archive": [],
-  "Area": [],
-  "Project": [],
   "Resources": [
     "Resources/Development",
     "Resources/Electronics"
   ],
   "Resources/Development": [
+    "Resources/Development/Design Patterns",
     "Resources/Development/Solid",
     "Resources/Development/Syntax",
-    "Resources/Development/Architectural Patterns",
-    "Resources/Development/Design Patterns"
+    "Resources/Development/Architectural Patterns"
   ],
   "Resources/Development/Architectural Patterns": [
-    "Resources/Development/Architectural Patterns/Model View Controller.md",
-    "Resources/Development/Architectural Patterns/SOAP.md"
+    "Resources/Development/Architectural Patterns/SOAP.md",
+    "Resources/Development/Architectural Patterns/Model View Controller.md"
   ],
   "Resources/Development/Design Patterns": [
-    "Resources/Development/Design Patterns/Chain of Responsibility.md",
-    "Resources/Development/Design Patterns/Command.md",
-    "Resources/Development/Design Patterns/Factory.md",
-    "Resources/Development/Design Patterns/Flyweight.md",
-    "Resources/Development/Design Patterns/Object Pool.md",
     "Resources/Development/Design Patterns/Observer.md",
+    "Resources/Development/Design Patterns/Command.md",
+    "Resources/Development/Design Patterns/Flyweight.md",
     "Resources/Development/Design Patterns/Prototype.md",
     "Resources/Development/Design Patterns/Singleton.md",
     "Resources/Development/Design Patterns/State.md",
+    "Resources/Development/Design Patterns/Object Pool.md",
     "Resources/Development/Design Patterns/Subclass Sandbox.md",
+    "Resources/Development/Design Patterns/Chain of Responsibility.md",
+    "Resources/Development/Design Patterns/Factory.md",
     "Resources/Development/Design Patterns/Null Object Pattern.md"
   ],
   "Resources/Development/Solid": [
-    "Resources/Development/Solid/SOLID.md",
-    "Resources/Development/Solid/Single Responsibility.md",
-    "Resources/Development/Solid/Open-Closed.md",
-    "Resources/Development/Solid/Liskov Sustitution.md",
+    "Resources/Development/Solid/Dependency inversion.md",
     "Resources/Development/Solid/Interface segregation.md",
-    "Resources/Development/Solid/Dependency inversion.md"
+    "Resources/Development/Solid/Liskov Sustitution.md",
+    "Resources/Development/Solid/Open-Closed.md",
+    "Resources/Development/Solid/Single Responsibility.md",
+    "Resources/Development/Solid/SOLID.md"
   ],
   "Resources/Development/Syntax": [
     "Resources/Development/Syntax/Null-coalescing assignment operator.md"

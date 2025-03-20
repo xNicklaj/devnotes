@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Flyweight",
+      "path": "Resources/Development/Design Patterns/Flyweight.md"
+    },
+    {
+      "basename": "Command",
+      "path": "Resources/Development/Design Patterns/Command.md"
+    },
+    {
+      "basename": "Null-coalescing assignment operator",
+      "path": "Resources/Development/Syntax/Null-coalescing assignment operator.md"
+    },
+    {
+      "basename": "Single Responsibility",
+      "path": "Resources/Development/Solid/Single Responsibility.md"
+    },
+    {
       "basename": "Dependency inversion",
       "path": "Resources/Development/Solid/Dependency inversion.md"
     },
     {
       "basename": "Open-Closed",
       "path": "Resources/Development/Solid/Open-Closed.md"
-    },
-    {
-      "basename": "Single Responsibility",
-      "path": "Resources/Development/Solid/Single Responsibility.md"
     },
     {
       "basename": "Interface segregation",
@@ -49,20 +61,8 @@
       "path": "Resources/Development/Design Patterns/Subclass Sandbox.md"
     },
     {
-      "basename": "Null-coalescing assignment operator",
-      "path": "Resources/Development/Syntax/Null-coalescing assignment operator.md"
-    },
-    {
-      "basename": "Command",
-      "path": "Resources/Development/Design Patterns/Command.md"
-    },
-    {
       "basename": "Coil Whine",
       "path": "Resources/Electronics/Phenomenons/Coil Whine.md"
-    },
-    {
-      "basename": "Flyweight",
-      "path": "Resources/Development/Design Patterns/Flyweight.md"
     },
     {
       "basename": "Singleton",
