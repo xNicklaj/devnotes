@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Object Pool",
+      "path": "Resources/Development/Design Patterns/Object Pool.md"
+    },
+    {
       "basename": "Flyweight",
       "path": "Resources/Development/Design Patterns/Flyweight.md"
     },
@@ -71,10 +75,6 @@
     {
       "basename": "Chain of Responsibility",
       "path": "Resources/Development/Design Patterns/Chain of Responsibility.md"
-    },
-    {
-      "basename": "Object Pool",
-      "path": "Resources/Development/Design Patterns/Object Pool.md"
     },
     {
       "basename": "State",
