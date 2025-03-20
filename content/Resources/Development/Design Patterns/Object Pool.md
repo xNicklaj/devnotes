@@ -79,5 +79,3 @@ A variation of the ObjectPool also includes a cap for maximum poolable objects t
 ## UnityEngine Pool
 This behaviour is used so much that Unity has its own implementation of the `ObjectPool` via the [**IObjectPool**](https://docs.unity3d.com/6000.0/Documentation/ScriptReference/Pool.ObjectPool_1.html).
 
-`IObjectPool` is a generic 
-
