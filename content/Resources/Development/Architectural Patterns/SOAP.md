@@ -15,7 +15,7 @@ You can basically replace all [[Singleton|singletons]] with Scriptable Objects.
 
 ![[Pasted image 20250319214858.png]]
 
-## Controlling GameObjects behaviour via ScriptableEvents
+## Controlling GameObjects Behaviour via ScriptableEvents
 You can insert an **Event** in a scriptable and use it to control the execution order of functions for GameObjects.
 
 ![[Pasted image 20250319091349.png]]

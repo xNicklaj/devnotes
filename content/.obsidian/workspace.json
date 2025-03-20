@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Development/Architectural Patterns/SOAP.md",
-                "mode": "source",
+                "file": "Resources/Development/Solid/Dependency inversion.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SOAP"
+              "title": "Dependency inversion"
             }
           }
         ]
@@ -185,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Development/Architectural Patterns/SOAP.md",
+                "file": "Resources/Development/Solid/Dependency inversion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for SOAP"
+              "title": "Backlinks for Dependency inversion"
             }
           },
           {
@@ -246,8 +246,14 @@
   },
   "active": "6ad5839a3e6281c2",
   "lastOpenFiles": [
-    "Resources/Development/Architectural Patterns/assets/Pasted image 20250319214858.png",
+    "Resources/Development/Solid/Open-Closed.md",
     "Resources/Development/Solid/Single Responsibility.md",
+    "Resources/Development/Solid/Dependency inversion.md",
+    "Resources/Development/Solid/Interface segregation.md",
+    "Resources/Development/Solid/Liskov Sustitution.md",
+    "Resources/Development/Solid/SOLID.md",
+    "Resources/Development/Architectural Patterns/SOAP.md",
+    "Resources/Development/Architectural Patterns/assets/Pasted image 20250319214858.png",
     "Resources/Development/Design Patterns/Null Object Pattern.md",
     "_Index_content.md",
     "Resources/Development/Patterns/Factory.md",
@@ -267,15 +273,10 @@
     "Resources/Development/Design Patterns/Flyweight.md",
     "Resources/Development/Design Patterns/Factory.md",
     "Resources/Development/Design Patterns/Command.md",
-    "Resources/Development/Design Patterns/Chain of Responsibility.md",
     "Resources/Development/Design Patterns",
     "Resources/Development/Architectural Patterns/assets/Pasted image 20250319091349.png",
     "Resources/Development/Architectural Patterns/assets",
-    "Resources/Development/Architectural Patterns/_Index_Architectural Patterns.md",
-    "Resources/Development/Architectural Patterns/SOAP.md",
-    "Resources/Development/Architectural Patterns/Model View Controller.md",
     "Resources/Development/Architectural Patterns",
-    "Resources/Development/Patterns/Observer.md",
     "Resources/Development/Solid/assets/Pasted image 20250318131041.png",
     "Resources/Development/Solid/assets/Pasted image 20250318130221.png",
     "Resources/Development/Solid/assets/Pasted image 20250318094216.png",
@@ -292,7 +293,6 @@
     "Untitled.canvas",
     "Knowledge/Audio & Sound/assets/Pasted image 20250227131906.png",
     "Knowledge/Virtual Reality & Game Design/Tracker 1/assets/Pasted image 20241101101245.png",
-    "Knowledge/Virtual Reality & Game Design/Tracker 1/assets/Pasted image 20241101100036.png",
     "Materie/Cinema Immersivo/Appunti/Articoli/Analisi Articoli.canvas"
   ]
 }
