@@ -4,6 +4,7 @@ Object Pooling is a technique where many instances of an object are created (and
 
 ## Definition
 Let's start by creating the `PooledObject` that will be contained by the pool.
+
 ```csharp
 public class PooledObject : MonoBehaviour
 {
@@ -17,7 +18,9 @@ public class PooledObject : MonoBehaviour
 }
 ```
 
-The 
+Now on to the `ObjectPool`. 
+This object will have an initial size, the number of `PooledObject` to instantiate on start, and a reference to the prefab that will be the `PooledObject`.
+
 ```csharp
 public class ObjectPool : MonoBehaviour
 {
@@ -69,3 +72,12 @@ public class ObjectPool : MonoBehaviour
 	}
 }
 ```
+
+To get a new `PooledObject` you just need to call `GetPooledObject()`, and it will return the first available Object in the stack, or create a new one if none is available.
+A variation of the ObjectPool also includes a cap for maximum poolable objects that prevents it from generating more objects when none is available.
+
+## UnityEngine Pool
+This behaviour is used so much that Unity has its own implementation of the `ObjectPool` via the [**IObjectPool**](https://docs.unity3d.com/6000.0/Documentation/ScriptReference/Pool.ObjectPool_1.html).
+
+`IObjectPool` is a generic 
+
