@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Development/Design Patterns/Null Object Pattern.md",
+                "file": "Resources/Development/Architectural Patterns/SOAP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Null Object Pattern"
+              "title": "SOAP"
             }
           }
         ]
@@ -185,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Development/Design Patterns/Null Object Pattern.md",
+                "file": "Resources/Development/Architectural Patterns/SOAP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Null Object Pattern"
+              "title": "Backlinks for SOAP"
             }
           },
           {
@@ -246,6 +246,8 @@
   },
   "active": "6ad5839a3e6281c2",
   "lastOpenFiles": [
+    "Resources/Development/Architectural Patterns/assets/Pasted image 20250319214858.png",
+    "Resources/Development/Solid/Single Responsibility.md",
     "Resources/Development/Design Patterns/Null Object Pattern.md",
     "_Index_content.md",
     "Resources/Development/Patterns/Factory.md",
@@ -274,8 +276,6 @@
     "Resources/Development/Architectural Patterns/Model View Controller.md",
     "Resources/Development/Architectural Patterns",
     "Resources/Development/Patterns/Observer.md",
-    "Resources/Development/Solid/Interface segregation.md",
-    "Resources/Development/Solid/Liskov Sustitution.md",
     "Resources/Development/Solid/assets/Pasted image 20250318131041.png",
     "Resources/Development/Solid/assets/Pasted image 20250318130221.png",
     "Resources/Development/Solid/assets/Pasted image 20250318094216.png",

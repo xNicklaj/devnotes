@@ -13,6 +13,8 @@ You can basically replace all [[Singleton|singletons]] with Scriptable Objects.
 > As useful as they are, what many developers fail to understand is that scriptable data changed in runtime does not persist across sessions. A scriptable's default state is generated when building the game, so if you need your data to persist you'll have to serialize it and save it somehow.
 
 
+![[Pasted image 20250319214858.png]]
+
 ## Controlling GameObjects behaviour via ScriptableEvents
 You can insert an **Event** in a scriptable and use it to control the execution order of functions for GameObjects.
 

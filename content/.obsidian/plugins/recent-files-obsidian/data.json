@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Null Object Pattern",
-      "path": "Resources/Development/Design Patterns/Null Object Pattern.md"
-    },
-    {
       "basename": "SOAP",
       "path": "Resources/Development/Architectural Patterns/SOAP.md"
+    },
+    {
+      "basename": "Single Responsibility",
+      "path": "Resources/Development/Solid/Single Responsibility.md"
+    },
+    {
+      "basename": "Null Object Pattern",
+      "path": "Resources/Development/Design Patterns/Null Object Pattern.md"
     },
     {
       "basename": "Model View Controller",
@@ -31,10 +35,6 @@
     {
       "basename": "Open-Closed",
       "path": "Resources/Development/Solid/Open-Closed.md"
-    },
-    {
-      "basename": "Single Responsibility",
-      "path": "Resources/Development/Solid/Single Responsibility.md"
     },
     {
       "basename": "Subclass Sandbox",
