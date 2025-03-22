@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Null-coalescing assignment operator",
+      "path": "Resources/Development/Syntax/Null-coalescing assignment operator.md"
+    },
+    {
+      "basename": "Null Object Pattern",
+      "path": "Resources/Development/Design Patterns/Null Object Pattern.md"
+    },
+    {
       "basename": "State",
       "path": "Resources/Development/Design Patterns/State.md"
     },
@@ -29,10 +37,6 @@
       "path": "Resources/Development/Design Patterns/Command.md"
     },
     {
-      "basename": "Null-coalescing assignment operator",
-      "path": "Resources/Development/Syntax/Null-coalescing assignment operator.md"
-    },
-    {
       "basename": "Single Responsibility",
       "path": "Resources/Development/Solid/Single Responsibility.md"
     },
@@ -59,10 +63,6 @@
     {
       "basename": "SOAP",
       "path": "Resources/Development/Architectural Patterns/SOAP.md"
-    },
-    {
-      "basename": "Null Object Pattern",
-      "path": "Resources/Development/Design Patterns/Null Object Pattern.md"
     },
     {
       "basename": "Model View Controller",
