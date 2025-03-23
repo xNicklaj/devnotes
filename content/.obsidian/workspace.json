@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Development/Syntax/Null-coalescing assignment operator.md",
+                "file": "Resources/Development/Design Patterns/Object Pool.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Null-coalescing assignment operator"
+              "title": "Object Pool"
             }
           }
         ]
@@ -185,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Development/Syntax/Null-coalescing assignment operator.md",
+                "file": "Resources/Development/Design Patterns/Object Pool.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Null-coalescing assignment operator"
+              "title": "Backlinks for Object Pool"
             }
           },
           {
@@ -246,6 +246,7 @@
   },
   "active": "6ad5839a3e6281c2",
   "lastOpenFiles": [
+    "Resources/Development/Syntax/Null-coalescing assignment operator.md",
     "Resources/Development/Design Patterns/Null Object Pattern.md",
     "Resources/Development/Solid/Dependency inversion.md",
     "Resources/Development/Solid/Open-Closed.md",
@@ -272,7 +273,6 @@
     "Resources/Development/Design Patterns/Object Pool.md",
     "Resources/Development/Design Patterns/Flyweight.md",
     "Resources/Development/Design Patterns/Factory.md",
-    "Resources/Development/Design Patterns/Command.md",
     "Resources/Development/Design Patterns",
     "Resources/Development/Architectural Patterns/assets/Pasted image 20250319091349.png",
     "Resources/Development/Architectural Patterns/assets",

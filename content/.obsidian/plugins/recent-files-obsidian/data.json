@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Object Pool",
+      "path": "Resources/Development/Design Patterns/Object Pool.md"
+    },
+    {
       "basename": "Null-coalescing assignment operator",
       "path": "Resources/Development/Syntax/Null-coalescing assignment operator.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "Subclass Sandbox",
       "path": "Resources/Development/Design Patterns/Subclass Sandbox.md"
-    },
-    {
-      "basename": "Object Pool",
-      "path": "Resources/Development/Design Patterns/Object Pool.md"
     },
     {
       "basename": "Flyweight",
