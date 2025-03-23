@@ -17,7 +17,11 @@
     "Resources/Development/Solid",
     "Resources/Development/Syntax",
     "Resources/Development/Architectural Patterns",
-    "Resources/Development/Design Patterns"
+    "Resources/Development/Design Patterns",
+    "Resources/Development/Algorithms"
+  ],
+  "Resources/Development/Algorithms": [
+    "Resources/Development/Algorithms/Random Spawn In circle.md"
   ],
   "Resources/Development/Architectural Patterns": [
     "Resources/Development/Architectural Patterns/Model View Controller.md",
