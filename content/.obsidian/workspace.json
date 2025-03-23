@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Random Spawn In circle"
             }
-          },
-          {
-            "id": "188f93fdc37c0fb3",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://programming.guide/random-point-within-circle.html",
-                "title": "data:text/plain,",
-                "mode": "blank"
-              },
-              "icon": "globe-2",
-              "title": "data:text/plain,"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,6 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Resources/Development/Algorithms/Random Spawn In circle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +195,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Random Spawn In circle"
             }
           },
           {
@@ -258,7 +244,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "188f93fdc37c0fb3",
+  "active": "6ad5839a3e6281c2",
   "lastOpenFiles": [
     "Resources/Development/Algorithms/Random Spawn In circle.md",
     "Resources/Development/Algorithms/assets/Pasted image 20250323101131.png",
