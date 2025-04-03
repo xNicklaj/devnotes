@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Command",
+      "path": "Resources/Development/Design Patterns/Command.md"
+    },
+    {
+      "basename": "Flyweight",
+      "path": "Resources/Development/Design Patterns/Flyweight.md"
+    },
+    {
       "basename": "Random Spawn In circle",
       "path": "Resources/Development/Algorithms/Random Spawn In circle.md"
     },
@@ -31,14 +39,6 @@
     {
       "basename": "Subclass Sandbox",
       "path": "Resources/Development/Design Patterns/Subclass Sandbox.md"
-    },
-    {
-      "basename": "Flyweight",
-      "path": "Resources/Development/Design Patterns/Flyweight.md"
-    },
-    {
-      "basename": "Command",
-      "path": "Resources/Development/Design Patterns/Command.md"
     },
     {
       "basename": "Single Responsibility",
