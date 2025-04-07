@@ -1,14 +1,8 @@
 {
   "/": [
-    "Project",
-    "Area",
     "Resources",
-    "Archive",
     "Templates"
   ],
-  "Archive": [],
-  "Area": [],
-  "Project": [],
   "Resources": [
     "Resources/Development",
     "Resources/Electronics"
