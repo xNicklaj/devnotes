@@ -2,7 +2,7 @@
 tags: 
 aliases:
 ---
-The command pattern allows to encapsulate functions in **commands objects** that allows to split the execution of some code from the source input that triggers the execution. Moreover, with the command pattern it's possible to easily implement an Undo/Redo mechanism by saving all the executed commands in a list.
+		The command pattern allows to encapsulate functions in **commands objects** that allows to split the execution of some code from the source input that triggers the execution. Moreover, with the command pattern it's possible to easily implement an Undo/Redo mechanism by saving all the executed commands in a list.
 
 In the words of Robert Nystrom[^citation]:
 
