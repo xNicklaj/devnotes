@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Development/Design Patterns/Command.md",
+                "file": "Resources/Development/Algorithms/Random Spawn In circle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Command"
+              "title": "Random Spawn In circle"
+            }
+          },
+          {
+            "id": "37ae81d3bb6d08e5",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://programming.guide/random-point-within-circle.html",
+                "title": "Generating a random point within a circle (uniformly) | Programming.Guide",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Generating a random point within a circle (uniformly) | Programming.Guide"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,7 +200,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Development/Design Patterns/Command.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +209,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Command"
+              "title": "Backlinks"
             }
           },
           {
@@ -244,11 +258,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "6ad5839a3e6281c2",
+  "active": "37ae81d3bb6d08e5",
   "lastOpenFiles": [
-    "Resources/Development/Design Patterns/Flyweight.md",
-    "Resources/Development/Design Patterns/Command.md",
     "Resources/Development/Algorithms/Random Spawn In circle.md",
+    "Resources/Development/Design Patterns/Command.md",
+    "Resources/Development/Design Patterns/Flyweight.md",
     "Resources/Development/Algorithms/assets/Pasted image 20250323101131.png",
     "Resources/Development/Algorithms/assets",
     "Resources/Development/Algorithms/_Index_Algorithms.md",
