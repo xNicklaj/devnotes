@@ -25,14 +25,14 @@
             "id": "37ae81d3bb6d08e5",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
+              "type": "markdown",
               "state": {
-                "url": "https://programming.guide/random-point-within-circle.html",
-                "title": "Generating a random point within a circle (uniformly) | Programming.Guide",
-                "mode": "webview"
+                "file": "Resources/Development/Design Patterns/State.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "globe-2",
-              "title": "Generating a random point within a circle (uniformly) | Programming.Guide"
+              "icon": "lucide-file",
+              "title": "State"
             }
           }
         ],
@@ -200,6 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Resources/Development/Design Patterns/State.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +210,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for State"
             }
           },
           {

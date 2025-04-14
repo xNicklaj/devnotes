@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "State",
+      "path": "Resources/Development/Design Patterns/State.md"
+    },
+    {
       "basename": "Random Spawn In circle",
       "path": "Resources/Development/Algorithms/Random Spawn In circle.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "Null Object Pattern",
       "path": "Resources/Development/Design Patterns/Null Object Pattern.md"
-    },
-    {
-      "basename": "State",
-      "path": "Resources/Development/Design Patterns/State.md"
     },
     {
       "basename": "Singleton",
