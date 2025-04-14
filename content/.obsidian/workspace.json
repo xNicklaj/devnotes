@@ -27,16 +27,35 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Development/Design Patterns/State.md",
+                "file": "Resources/Development/Design Patterns/Command.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "State"
+              "title": "Command"
+            }
+          },
+          {
+            "id": "468d07216fb3af42",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Project/Poli-GDG/Features.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Features"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -200,7 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Development/Design Patterns/State.md",
+                "file": "Project/Poli-GDG/Features.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +229,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for State"
+              "title": "Backlinks for Features"
             }
           },
           {
@@ -256,18 +275,29 @@
       "obsidian-git:Open Git source control": false,
       "chronology:Open Chronology": false,
       "smart-composer:Open smart composer": false,
-      "obsidian42-brat:BRAT": false
+      "obsidian42-brat:BRAT": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "37ae81d3bb6d08e5",
+  "active": "468d07216fb3af42",
   "lastOpenFiles": [
-    "Resources/Development/Algorithms/Random Spawn In circle.md",
+    "Project/Poli-GDG/TODO.md",
+    "Project/Poli-GDG/Features.md",
+    "Project/_Index_Project.md",
+    "Project/Poli-GDG/_Index_Poli-GDG.md",
+    "Resources/Development/Design Patterns/Object Pool.md",
+    "Project/Poli-GDG",
+    "Resources/Development/Design Patterns/Observer.md",
+    "Resources/Development/Design Patterns/Prototype.md",
+    "Resources/Development/Design Patterns/Singleton.md",
     "Resources/Development/Design Patterns/Command.md",
+    "Resources/Development/Design Patterns/Chain of Responsibility.md",
+    "Resources/Development/Design Patterns/State.md",
+    "Resources/Development/Algorithms/Random Spawn In circle.md",
     "Resources/Development/Design Patterns/Flyweight.md",
     "Resources/Development/Algorithms/assets/Pasted image 20250323101131.png",
     "Resources/Development/Algorithms/assets",
     "Resources/Development/Algorithms/_Index_Algorithms.md",
-    "Resources/Development/Design Patterns/Object Pool.md",
     "Resources/Development/Algorithms",
     "Resources/Development/Syntax/Null-coalescing assignment operator.md",
     "Resources/Development/Design Patterns/Null Object Pattern.md",
@@ -282,15 +312,6 @@
     "_Index_content.md",
     "Resources/Development/Patterns/Factory.md",
     "Resources/_Index_Resources.md",
-    "Resources/Development/_Index_Development.md",
-    "Resources/Development/Syntax/_Index_Syntax.md",
-    "Resources/Development/Solid/_Index_Solid.md",
-    "Resources/Development/Design Patterns/_Index_Patterns.md",
-    "Resources/Development/Design Patterns/_Index_DesignPatterns.md",
-    "Resources/Development/Design Patterns/_Index_Design Patterns.md",
-    "Resources/Development/Design Patterns/Subclass Sandbox.md",
-    "Resources/Development/Design Patterns/State.md",
-    "Resources/Development/Design Patterns/Singleton.md",
     "Resources/Development/Design Patterns",
     "Resources/Development/Architectural Patterns/assets/Pasted image 20250319091349.png",
     "Resources/Development/Architectural Patterns/assets",
@@ -305,7 +326,6 @@
     "Resources/Development/Syntax",
     "Resources/Development/Solid",
     "Templates",
-    "Resources/Electronics/Phenomenons",
     "Untitled.canvas",
     "Knowledge/Audio & Sound/assets/Pasted image 20250227131906.png",
     "Materie/Cinema Immersivo/Appunti/Articoli/Analisi Articoli.canvas"

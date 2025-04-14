@@ -8,7 +8,12 @@
   ],
   "Archive": [],
   "Area": [],
-  "Project": [],
+  "Project": [
+    "Project/Poli-GDG"
+  ],
+  "Project/Poli-GDG": [
+    "Project/Poli-GDG/Features.md"
+  ],
   "Resources": [
     "Resources/Development",
     "Resources/Electronics"

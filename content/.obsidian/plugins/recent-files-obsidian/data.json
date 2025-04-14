@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "Features",
+      "path": "Project/Poli-GDG/Features.md"
+    },
+    {
+      "basename": "Object Pool",
+      "path": "Resources/Development/Design Patterns/Object Pool.md"
+    },
+    {
+      "basename": "Observer",
+      "path": "Resources/Development/Design Patterns/Observer.md"
+    },
+    {
+      "basename": "Prototype",
+      "path": "Resources/Development/Design Patterns/Prototype.md"
+    },
+    {
+      "basename": "Singleton",
+      "path": "Resources/Development/Design Patterns/Singleton.md"
+    },
+    {
+      "basename": "Command",
+      "path": "Resources/Development/Design Patterns/Command.md"
+    },
+    {
+      "basename": "Chain of Responsibility",
+      "path": "Resources/Development/Design Patterns/Chain of Responsibility.md"
+    },
+    {
       "basename": "State",
       "path": "Resources/Development/Design Patterns/State.md"
     },
@@ -9,16 +37,8 @@
       "path": "Resources/Development/Algorithms/Random Spawn In circle.md"
     },
     {
-      "basename": "Command",
-      "path": "Resources/Development/Design Patterns/Command.md"
-    },
-    {
       "basename": "Flyweight",
       "path": "Resources/Development/Design Patterns/Flyweight.md"
-    },
-    {
-      "basename": "Object Pool",
-      "path": "Resources/Development/Design Patterns/Object Pool.md"
     },
     {
       "basename": "Null-coalescing assignment operator",
@@ -27,14 +47,6 @@
     {
       "basename": "Null Object Pattern",
       "path": "Resources/Development/Design Patterns/Null Object Pattern.md"
-    },
-    {
-      "basename": "Singleton",
-      "path": "Resources/Development/Design Patterns/Singleton.md"
-    },
-    {
-      "basename": "Prototype",
-      "path": "Resources/Development/Design Patterns/Prototype.md"
     },
     {
       "basename": "Subclass Sandbox",
@@ -77,16 +89,8 @@
       "path": "Resources/Development/Design Patterns/Factory.md"
     },
     {
-      "basename": "Observer",
-      "path": "Resources/Development/Design Patterns/Observer.md"
-    },
-    {
       "basename": "Coil Whine",
       "path": "Resources/Electronics/Phenomenons/Coil Whine.md"
-    },
-    {
-      "basename": "Chain of Responsibility",
-      "path": "Resources/Development/Design Patterns/Chain of Responsibility.md"
     },
     {
       "basename": "2025-03-10",
@@ -191,14 +195,6 @@
     {
       "basename": "Campionamento",
       "path": "Materie/Campionamento/Campionamento.md"
-    },
-    {
-      "basename": "Cinema Immersivo",
-      "path": "Materie/Cinema Immersivo/Cinema Immersivo.md"
-    },
-    {
-      "basename": "Realtà Virtuale",
-      "path": "Materie/Realtà Virtuale/Realtà Virtuale.md"
     }
   ],
   "omittedPaths": [
