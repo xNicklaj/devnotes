@@ -115,6 +115,9 @@
       },
       "code-styler": {
         "startupType": "instant"
+      },
+      "obsidian-kanban": {
+        "startupType": "instant"
       }
     }
   }

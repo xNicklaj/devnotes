@@ -275,8 +275,8 @@
       "obsidian-git:Open Git source control": false,
       "chronology:Open Chronology": false,
       "smart-composer:Open smart composer": false,
-      "obsidian42-brat:BRAT": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "obsidian42-brat:BRAT": false
     }
   },
   "active": "468d07216fb3af42",
