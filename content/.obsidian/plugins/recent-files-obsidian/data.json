@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Command",
+      "path": "Resources/Development/Design Patterns/Command.md"
+    },
+    {
       "basename": "Features",
       "path": "Project/Poli-GDG/Features.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "Singleton",
       "path": "Resources/Development/Design Patterns/Singleton.md"
-    },
-    {
-      "basename": "Command",
-      "path": "Resources/Development/Design Patterns/Command.md"
     },
     {
       "basename": "Chain of Responsibility",

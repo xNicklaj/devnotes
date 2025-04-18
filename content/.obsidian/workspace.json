@@ -39,19 +39,14 @@
             "id": "468d07216fb3af42",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Project/Poli-GDG/Features.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false
-                  ]
-                }
+                "file": "Resources/Development/Design Patterns/Command.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Features"
+              "icon": "lucide-file",
+              "title": "Command"
             }
           }
         ],
@@ -219,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/Poli-GDG/Features.md",
+                "file": "Resources/Development/Design Patterns/Command.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +224,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Features"
+              "title": "Backlinks for Command"
             }
           },
           {
@@ -281,8 +276,8 @@
   },
   "active": "468d07216fb3af42",
   "lastOpenFiles": [
-    "Project/Poli-GDG/TODO.md",
     "Project/Poli-GDG/Features.md",
+    "Project/Poli-GDG/TODO.md",
     "Project/_Index_Project.md",
     "Project/Poli-GDG/_Index_Poli-GDG.md",
     "Resources/Development/Design Patterns/Object Pool.md",
