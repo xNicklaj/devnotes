@@ -48,9 +48,21 @@
               "icon": "lucide-file",
               "title": "Command"
             }
+          },
+          {
+            "id": "f086c394407a2916",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -270,11 +282,10 @@
       "obsidian-git:Open Git source control": false,
       "chronology:Open Chronology": false,
       "smart-composer:Open smart composer": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian42-brat:BRAT": false
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "468d07216fb3af42",
+  "active": "f086c394407a2916",
   "lastOpenFiles": [
     "Project/Poli-GDG/Features.md",
     "Project/Poli-GDG/TODO.md",
